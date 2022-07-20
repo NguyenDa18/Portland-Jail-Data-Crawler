@@ -1,7 +1,6 @@
 import requests
 import pandas as pd
 from bs4 import BeautifulSoup
-from urllib.request import urlopen
 
 MULT_COUNTY_JAIL_BOOKINGS_URL = "http://www.mcso.us/PAID/Home/SearchResults"
 
