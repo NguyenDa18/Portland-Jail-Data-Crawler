@@ -2,7 +2,7 @@ name: scrape-inmates
 
 on:
   schedule:
-    - cron: '0 */1 * * *'
+    - cron: '0 */12 * * *'
   
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -34,6 +34,6 @@ jobs:
           git config user.email "actions.users@noreply.github.com"
           git add -A
           timestamp=$(date -u)
-          git commit -m "Latest data: ${timestamp}" || exit 0
+          git commit -m "Latest booking data: ${timestamp}" || exit 0
           git push -f origin main 
       
