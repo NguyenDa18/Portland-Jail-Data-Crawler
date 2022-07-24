@@ -15,4 +15,4 @@ class InmateSpider(scrapy.Spider):
         table_input = response.css('table').get()
         table_to_df = pd.read_html(table_input, parse_dates=[1])[0]
         table_to_df = table_to_df.sort_values(by=['Booking Date', 'Name'], ascending=[ False, True ])
-        table_to_df.to_csv('bookings.csv')
+        table_to_df.to_csv('../../../data/demo.csv')
