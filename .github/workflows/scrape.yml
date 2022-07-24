@@ -26,7 +26,7 @@ jobs:
 
       - name: execute inmates spider
         run:
-          cd inmates_spider/inmates_spider/spiders && scrapy crawl inmates ../../../data/charges.csv -o -t csv
+          cd inmates_spider/inmates_spider/spiders && scrapy crawl inmates -o ../../../data/charges.csv -t csv
 
       - name: commit and push if changed
         run: |-
