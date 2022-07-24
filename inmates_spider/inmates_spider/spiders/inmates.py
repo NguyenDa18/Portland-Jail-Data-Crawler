@@ -17,7 +17,7 @@ class InmateSpider(scrapy.Spider):
         table_to_df = table_to_df.sort_values(by=['Booking Date', 'Name'], ascending=[ False, True ])
         table_to_df.to_csv('../../../data/demo.csv')
 
-        inmate_links = response.xpath('//[@class="search-results"]//a/@href').getall()
+        inmate_links = response.xpath('//*[@class="search-results"]//a/@href').getall()
         for link in inmate_links:
             url = response.urljoin(link)
             yield response.follow(url = url, callback = self.parse_inmate_data)
