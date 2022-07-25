@@ -3,6 +3,7 @@ import pandas as pd
 
 class InmateSpider(scrapy.Spider):
     name = 'inmates'
+    INMATE_COLUMNS = ['SWIS ID', 'Name', 'Age', 'Gender', 'Race', 'Height', 'Weight', 'Hair', 'Eyes', 'Arresting Agency', 'Booking Date', 'Assigned Facility', 'Projected Release Date']
 
     def start_requests(self):
         urls = ["http://www.mcso.us/PAID/Home/SearchResults"]
