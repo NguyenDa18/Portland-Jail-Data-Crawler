@@ -5,4 +5,4 @@ node_modules/
 .ipynb_checkpoints
 *.tsbuildinfo
 venv/
-__pycache__
+__pycache__/
