@@ -3,6 +3,7 @@ import pandas as pd
 
 class InmateSpider(scrapy.Spider):
     name = 'inmates'
+    INMATE_COLUMNS = ['SWIS ID', 'Name', 'Age', 'Gender', 'Race', 'Height', 'Weight', 'Hair', 'Eyes', 'Arresting Agency', 'Booking Date', 'Assigned Facility', 'Projected Release Date']
 
     def start_requests(self):
         urls = ["http://www.mcso.us/PAID/Home/SearchResults"]
@@ -12,17 +13,37 @@ class InmateSpider(scrapy.Spider):
                         callback=self.parse_table)
 
     def parse_table(self, response):
-        table_input = response.css('table').get()
-        table_to_df = pd.read_html(table_input, parse_dates=[1])[0]
-        table_to_df = table_to_df.sort_values(by=['Booking Date', 'Name'], ascending=[ False, True ])
-        table_to_df.to_csv('../../../data/demo.csv')
+        inmate_table_rows = []
+        rows = response.css('table tbody tr')
 
-        inmate_links = response.xpath('//*[@class="search-results"]//a/@href').getall()
+        for row in rows:
+            name_column = row.css('tr td')[0]
+            booking_column = row.css('tr td')[1]
+            inmate_name = name_column.css('a::text').get()
+            inmate_url = name_column.css('a::attr(href').get()
+            booking_date = booking_column.css('::text').get()
+            inmate_row = {
+                'Name': inmate_name,
+                'Booking Date': booking_date,
+                'URL': inmate_url
+            }
+            inmate_table_rows.append(inmate_row)
+        inmate_df = pd.DataFrame(inmate_table_rows)
+
+         # https://www.programiz.com/python-programming/datetime/strftime
+        inmate_df['Booking Date'] = pd.to_datetime(inmate_df['Booking Date'], format='%d %B %Y')
+        inmate_df = inmate_df.sort_values(by=['Booking Date', 'Name'], ascending=[ False, True ])
+        inmate_links = inmate_df['URL']
         for link in inmate_links:
             url = response.urljoin(link)
             yield response.follow(url = url, callback = self.parse_inmate_data)
+        inmate_df.drop('URL', axis=1, inplace=True)
+        inmate_df.to_csv('../../../data/inmate_bookings.csv', index=False)
 
     def parse_inmate_data(self, response):
+        inmates_table = response.css('table').get()
+        booking_table = pd.read_html(inmates_table)[0][1]
+
         charge_types = response.css('span.charge-description-display::text').getall()
         charge_bail_amounts = response.css('span.charge-bail-value::text').getall()
         charge_statuses = response.css('span.charge-status-value::text').getall()
@@ -34,6 +55,11 @@ class InmateSpider(scrapy.Spider):
                 'Status': c_status
             }
             charge_items.append(charge_item)
-        yield {
-            'Charges': charge_items
-        }
+        charge_types = [charge['Type'] for charge in charge_items]
+        charge_type_totals = pd.Series(charge_types).value_counts().to_dict()
+
+        inmate_data = dict(zip(self.INMATE_COLUMNS, booking_table))
+        inmate_data['Charge Type Counts'] = charge_type_totals
+        inmate_data['Charges'] = charge_items
+
+        yield inmate_data
