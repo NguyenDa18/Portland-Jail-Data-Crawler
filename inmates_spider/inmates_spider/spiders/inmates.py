@@ -38,7 +38,7 @@ class InmateSpider(scrapy.Spider):
             url = response.urljoin(link)
             yield response.follow(url = url, callback = self.parse_inmate_data)
         inmate_df.drop('URL', axis=1, inplace=True)
-        inmate_df.to_csv('../../../data/inmate_bookings.csv', index=False)
+        inmate_df.to_csv('../../../csvs/inmate_bookings.csv', index=False)
 
     def parse_inmate_data(self, response):
         inmates_table = response.css('table').get()
