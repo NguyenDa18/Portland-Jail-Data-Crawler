@@ -20,7 +20,7 @@ class InmateSpider(scrapy.Spider):
             name_column = row.css('tr td')[0]
             booking_column = row.css('tr td')[1]
             inmate_name = name_column.css('a::text').get()
-            inmate_url = name_column.css('a::attr(href').get()
+            inmate_url = name_column.css('a::attr(href)').get()
             booking_date = booking_column.css('::text').get()
             inmate_row = {
                 'Name': inmate_name,
