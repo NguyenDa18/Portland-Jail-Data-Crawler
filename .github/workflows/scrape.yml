@@ -26,7 +26,7 @@ jobs:
 
       - name: execute inmates spider
         run:
-          cd inmates_spider/inmates_spider/spiders && scrapy crawl inmates -t csv --nolog -O "../../../data/charges.csv"
+          cd inmates_spider/inmates_spider/spiders && scrapy crawl inmates --nolog --overwrite-output="../../../data/charges.csv"
 
       - name: commit and push if changed
         run: |-
