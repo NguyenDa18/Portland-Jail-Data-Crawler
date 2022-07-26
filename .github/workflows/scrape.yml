@@ -2,7 +2,7 @@ name: scrape-inmates
 
 on:
   schedule:
-    - cron: '30 * * */6 *'
+    - cron: '30 */2 * * *'
   
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -35,5 +35,5 @@ jobs:
           git add -A
           timestamp=$(date -u)
           git commit -m "Latest inmate data update: ${timestamp}" || exit 0
-          git push -f origin with-scrapy
+          git push -f origin main
       
