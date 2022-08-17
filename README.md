@@ -9,8 +9,8 @@
 Crawl through bookings of PDX Jail Database for data analysis and data transparency purposes. Update data files with scheduled jobs courtesy of GitHub actions.
 
 - Visit Multnomah County Online Inmate Data website: use URL for all inmates in custody
-- Scrape inmate names and booking dates and update `data/data.csv` file
-- Visit each inmate link and update `data/inmates.csv` with inmate details and charges against them
+- Scrape inmate names and booking dates and update `csvs/inmate_bookings.csv` file
+- Visit each inmate link and update `csvs/inmate_details.csv` with inmate details and charges against them
 
 ## Using
 - BeautifulSoup
