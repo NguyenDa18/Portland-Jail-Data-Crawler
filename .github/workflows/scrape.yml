@@ -11,7 +11,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: checkout repo content
+      - name: Checkout repo content
         uses: actions/checkout@v3
 
       - name: Setup Python
@@ -28,7 +28,7 @@ jobs:
         run:
           cd inmates_spider/inmates_spider/spiders && scrapy crawl inmates --nolog --overwrite-output="../../../csvs/inmate_details.csv"
 
-      - name: commit and push if changed
+      - name: Commit and push if changed
         run: |-
           git config user.name "Automated"
           git config user.email "actions.users@noreply.github.com"
@@ -36,4 +36,10 @@ jobs:
           timestamp=$(date -u)
           git commit -m "Latest inmate data update: ${timestamp}" || exit 0
           git push -f origin main
+
+      - name: Update MongoDB inmates collection with new data
+        env:
+          MONGODB_CONNECTION_STRING: ${{ secrets.MONGODB_CONNECTION_STRING }}
+        run:
+          cd utils && python update_db.py --nolog
       
