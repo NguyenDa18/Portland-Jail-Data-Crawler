@@ -18,7 +18,7 @@ Crawl through bookings of PDX Jail Database for data analysis and data transpare
 - GitHub Actions (for cron job running scraper)
 
 ## Enhancements
-- [ ] Storing data to a Database
+- [X] Storing data to a Database
 - [X] Optimizing crawling
 - [X] Using Scrapy Spider instead of BeautifulSoup
 - [ ] Creating UI for viewing data
