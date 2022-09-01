@@ -2,6 +2,8 @@ import requests
 import pandas as pd
 from bs4 import BeautifulSoup
 
+## Deprecated: Using Scrapy inmates_spider
+
 MULT_COUNTY_JAIL_BOOKINGS_URL = "http://www.mcso.us/PAID/Home/SearchResults"
 CSV_LOCATION = 'data/data.csv'
 INMATE_DATA_CSV_LOCATION = 'data/inmates.csv'
