@@ -1,11 +1,20 @@
 import scrapy
 import pandas as pd
+import os
+from pymongo import MongoClient
+
+MONGODB_CONNECTION_STRING = os.environ['MONGODB_CONNECTION_STRING']
 
 class InmateSpider(scrapy.Spider):
     name = 'inmates'
     INMATE_COLUMNS = ['SWIS ID', 'Name', 'Age', 'Gender', 'Race', 'Height', 'Weight', 'Hair', 'Eyes', 'Arresting Agency', 'Booking Date', 'Assigned Facility', 'Projected Release Date']
 
+    client = MongoClient(MONGODB_CONNECTION_STRING)
+    db = client.data
+
     def start_requests(self):
+        # empty collection before inserting new inmates
+        self.db.inmates.drop()
         urls = ["http://www.mcso.us/PAID/Home/SearchResults"]
         for url in urls:
             yield scrapy.Request(url = url, 
@@ -43,6 +52,7 @@ class InmateSpider(scrapy.Spider):
     def parse_inmate_data(self, response):
         inmates_table = response.css('table').get()
         booking_table = pd.read_html(inmates_table)[0][1]
+        inmate_data = dict(zip(self.INMATE_COLUMNS, booking_table))
 
         charge_types = response.css('span.charge-description-display::text').getall()
         charge_bail_amounts = response.css('span.charge-bail-value::text').getall()
@@ -57,9 +67,15 @@ class InmateSpider(scrapy.Spider):
             charge_items.append(charge_item)
         charge_types = [charge['Type'] for charge in charge_items]
         charge_type_totals = pd.Series(charge_types).value_counts().to_dict()
+        charge_type_totals['SWID'] = inmate_data['SWIS ID']
+        charge_type_totals['Name'] = inmate_data['Name']
+        
+        # make copy for db so ObjectID isn't part of CSV
+        charge_totals_dbitem = dict(charge_type_totals)
 
-        inmate_data = dict(zip(self.INMATE_COLUMNS, booking_table))
         inmate_data['Charge Type Counts'] = charge_type_totals
         inmate_data['Charges'] = charge_items
+
+        self.db.inmates_charges.insert_one(charge_totals_dbitem)
 
         yield inmate_data
