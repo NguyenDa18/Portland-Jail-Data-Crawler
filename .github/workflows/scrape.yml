@@ -8,7 +8,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  Scrape-PDX-Inmates:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo content
@@ -38,8 +38,9 @@ jobs:
           timestamp=$(date -u)
           git commit -m "Latest inmate data update: ${timestamp}" || exit 0
           git push -f origin main
-
+  Update-Inmates-DB:
       - name: Update MongoDB inmates collection with new data
+      - needs: Scrape-PDX-Inmates
         env:
           MONGODB_CONNECTION_STRING: ${{ secrets.MONGODB_CONNECTION_STRING }}
         run:

@@ -14,7 +14,7 @@ class InmateSpider(scrapy.Spider):
 
     def start_requests(self):
         # empty collection before inserting new inmates
-        self.db.inmates.drop()
+        self.db.inmates_charges.drop()
         urls = ["http://www.mcso.us/PAID/Home/SearchResults"]
         for url in urls:
             yield scrapy.Request(url = url, 
@@ -72,7 +72,11 @@ class InmateSpider(scrapy.Spider):
         
         # make copy for db so ObjectID isn't part of CSV
         charge_totals_dbitem = {
-            "Charge Type Counts": dict(charge_type_totals)
+            "Name": inmate_data['Name'],
+            "SWIS ID": inmate_data['SWIS ID'],
+            "charges": {
+                "counts": dict(charge_type_totals)
+            }
         }
 
         inmate_data['Charge Type Counts'] = charge_type_totals
