@@ -71,7 +71,9 @@ class InmateSpider(scrapy.Spider):
         charge_type_totals['Name'] = inmate_data['Name']
         
         # make copy for db so ObjectID isn't part of CSV
-        charge_totals_dbitem = dict(charge_type_totals)
+        charge_totals_dbitem = {
+            "Charge Type Counts": dict(charge_type_totals)
+        }
 
         inmate_data['Charge Type Counts'] = charge_type_totals
         inmate_data['Charges'] = charge_items
