@@ -13,7 +13,7 @@ class InmateSpider(scrapy.Spider):
     db = client.data
 
     def start_requests(self):
-        # empty collection before inserting new inmates
+        # empty collection before inserting new inmates charges data
         self.db.inmates_charges.drop()
         urls = ["http://www.mcso.us/PAID/Home/SearchResults"]
         for url in urls:
@@ -67,8 +67,6 @@ class InmateSpider(scrapy.Spider):
             charge_items.append(charge_item)
         charge_types = [charge['Type'] for charge in charge_items]
         charge_type_totals = pd.Series(charge_types).value_counts().to_dict()
-        charge_type_totals['SWID'] = inmate_data['SWIS ID']
-        charge_type_totals['Name'] = inmate_data['Name']
         
         # make copy for db so ObjectID isn't part of CSV
         charge_totals_dbitem = {

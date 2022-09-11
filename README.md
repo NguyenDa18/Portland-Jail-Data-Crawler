@@ -8,14 +8,20 @@
 
 Crawl through bookings of PDX Jail Database for data analysis and data transparency purposes. Update data files with scheduled jobs courtesy of GitHub actions.
 
-- Visit Multnomah County Online Inmate Data website: use URL for all inmates in custody
+- Visit Multnomah County Online Inmate Data website: use URL for all inmates in custody: [Link](http://www.mcso.us/PAID/Home/SearchResults)
 - Scrape inmate names and booking dates and update `csvs/inmate_bookings.csv` file
 - Visit each inmate link and update `csvs/inmate_details.csv` with inmate details and charges against them
+
+### Scraper Details
+- Located at `inmates_spider/inmates_spider/spiders/inmates.py`
+- Generate Dataframe of inmates and booking dates and update `csvs/inmate_bookings.csv`, sort by descending order of booking dates
+- Follow each inmate's URL and generate metadata for each inmate, update `inmates_charges` MongoDB database with charge totals data
 
 ## Using
 - BeautifulSoup
 - Pandas
 - GitHub Actions (for cron job running scraper)
+- MongoDB (using pymongo Python package)
 
 ## Enhancements
 - [X] Storing data to a Database
