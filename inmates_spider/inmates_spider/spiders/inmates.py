@@ -65,6 +65,12 @@ class InmateSpider(scrapy.Spider):
                 'Status': c_status
             }
             charge_items.append(charge_item)
+
+            # Add to database of charges
+            self.db.inmates_charges.insert_one({
+                **charge_item,
+                'Name': booking_table[1]
+            })
         charge_types = [charge['Type'] for charge in charge_items]
         charge_type_totals = pd.Series(charge_types).value_counts().to_dict()
         
@@ -79,7 +85,5 @@ class InmateSpider(scrapy.Spider):
 
         inmate_data['Charge Type Counts'] = charge_type_totals
         inmate_data['Charges'] = charge_items
-
-        self.db.inmates_charges.insert_one(charge_totals_dbitem)
 
         yield inmate_data
