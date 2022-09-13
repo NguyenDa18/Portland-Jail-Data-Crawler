@@ -1,20 +1,16 @@
 import scrapy
 import pandas as pd
 import os
-from pymongo import MongoClient
-
-MONGODB_CONNECTION_STRING = os.environ['MONGODB_CONNECTION_STRING']
 
 class InmateSpider(scrapy.Spider):
     name = 'inmates'
     INMATE_COLUMNS = ['SWIS ID', 'Name', 'Age', 'Gender', 'Race', 'Height', 'Weight', 'Hair', 'Eyes', 'Arresting Agency', 'Booking Date', 'Assigned Facility', 'Projected Release Date']
 
-    client = MongoClient(MONGODB_CONNECTION_STRING)
-    db = client.data
+    file = '../../../csvs/inmate_charges.csv'
+    if(os.path.exists(file) and os.path.isfile(file)):
+        os.remove(file)
 
     def start_requests(self):
-        # empty collection before inserting new inmates charges data
-        self.db.inmates_charges.drop()
         urls = ["http://www.mcso.us/PAID/Home/SearchResults"]
         for url in urls:
             yield scrapy.Request(url = url, 
@@ -46,7 +42,8 @@ class InmateSpider(scrapy.Spider):
         for link in inmate_links:
             url = response.urljoin(link)
             yield response.follow(url = url, callback = self.parse_inmate_data)
-        inmate_df.drop('URL', axis=1, inplace=True)
+
+        inmate_df.drop(['URL'], axis=1, inplace=True)
         inmate_df.to_csv('../../../csvs/inmate_bookings.csv', index=False)
 
     def parse_inmate_data(self, response):
@@ -62,28 +59,15 @@ class InmateSpider(scrapy.Spider):
             charge_item = {
                 'Type': c_type,
                 'Bail': c_bail,
-                'Status': c_status
+                'Status': c_status,
+                'Name': booking_table[1]
             }
             charge_items.append(charge_item)
+        charges_df = pd.DataFrame(charge_items).sort_values(by=['Name'], ascending=True)
+        charges_df.to_csv('../../../csvs/inmate_charges.csv', mode='a', index=False, header=False)
 
-            # Add to database of charges
-            self.db.inmates_charges.insert_one({
-                **charge_item,
-                'Name': booking_table[1]
-            })
         charge_types = [charge['Type'] for charge in charge_items]
         charge_type_totals = pd.Series(charge_types).value_counts().to_dict()
-        
-        # make copy for db so ObjectID isn't part of CSV
-        charge_totals_dbitem = {
-            "Name": inmate_data['Name'],
-            "SWIS ID": inmate_data['SWIS ID'],
-            "charges": {
-                "counts": dict(charge_type_totals)
-            }
-        }
 
         inmate_data['Charge Type Counts'] = charge_type_totals
-        inmate_data['Charges'] = charge_items
-
         yield inmate_data
