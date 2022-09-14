@@ -3,20 +3,27 @@ import os
 from pymongo import MongoClient
 
 MONGODB_CONNECTION_STRING = os.environ['MONGODB_CONNECTION_STRING']
-CSV_URL = "../csvs/inmate_details.csv"
+INMATE_DETAILS_URL = "../csvs/inmate_details.csv"
+INMATE_CHARGES_URL = "../csvs/inmate_charges.csv"
 
 client = MongoClient(MONGODB_CONNECTION_STRING)
 
-df = pd.read_csv(CSV_URL)
+details_df = pd.read_csv(INMATE_DETAILS_URL)
+charges_df = pd.read_csv(INMATE_CHARGES_URL)
 
 # convert dataframe to dict for uploading to MongoDB
-inmates_dict = df.to_dict('records')
+details_dict = details_df.to_dict('records')
+charges_dict = charges_df.to_dict('records')
 
 # point to mongoDB collection
 db = client.data
 
-# empty collection before inserting new inmates
+# empty collections before inserting new inmates
 db.inmates.drop()
+db.inmates_charges.drop()
 
 # insert new documents to collection
-db.inmates.insert_many(inmates_dict)
+db.inmates.insert_many(details_dict)
+db.inmates_charges.insert_many(charges_dict)
+
+print("Updated MongoDB inmates data")
