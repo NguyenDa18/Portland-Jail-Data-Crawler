@@ -1,3 +1,13 @@
 {
-   "counts": []
+   "counts": [
+      {
+         "White": 423,
+         "Black": 293,
+         "Hispanic": 100,
+         "Asian": 27,
+         "Native American or Alaskan": 14,
+         "P": 7,
+         "Date": "2022-09-27"
+      }
+   ]
 }
