@@ -24,4 +24,4 @@ def generate_stats_for_category(column):
 
 generate_stats_for_category('gender')
 generate_stats_for_category('race')
-generate_stats_for_category('eyes')
+# generate_stats_for_category('eyes')
