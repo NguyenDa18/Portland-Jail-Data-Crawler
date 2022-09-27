@@ -12,6 +12,7 @@ Crawl through bookings of PDX Jail Database for data analysis and data transpare
 - Scrape inmate names and booking dates and update `csvs/inmate_bookings.csv` file
 - Visit each inmate link and update `csvs/inmate_details.csv` with inmate details and total amounts for each type of charge against them
 - Update `csvs/inmate_charges.csv` with list of charges for all inmates
+- Update JSON files in `counts` folder with counts of each category daily
 
 ### Scraper Details
 - Located at `inmates_spider/inmates_spider/spiders/inmates.py`
