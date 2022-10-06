@@ -1,3 +1,27 @@
 {
-    "counts": []
+   "counts": [
+      {
+         "UNLAW USE WEAPON (C Felony)": 476,
+         "UUMV (C Felony)": 374,
+         "COUNTY HOLD (U Unknown)": 366,
+         "IDENTITY THEFT (C Felony)": 293,
+         "POSS STOLEN MV (C Felony)": 252,
+         "SEX ABUSE I (B Felony)": 244,
+         "FELON POSS FA (C Felony)": 237,
+         "PAROLE OR PPSV VIOL (U Felony)": 225,
+         "ROBBERY I (A Felony)": 205,
+         "THEFT I (C Felony)": 189,
+         "CRIM MISCH II (A Misdemeanor)": 181,
+         "USE CHILD DSPLY SX (A Felony)": 181,
+         "BURGLARY I (A Felony)": 167,
+         "ASSAULT II (B Felony)": 160,
+         "MENACING (A Misdemeanor)": 153,
+         "ROBBERY II (B Felony)": 148,
+         "ENC CHILD SEX AB 1 (B Felony)": 140,
+         "RECK ENDANGER (A Misdemeanor)": 139,
+         "CRIM MISCH I (C Felony)": 135,
+         "SEX ABUSE III (A Misdemeanor)": 132,
+         "Date": "2022-10-05"
+      }
+   ]
 }
