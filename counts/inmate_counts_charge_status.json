@@ -1,3 +1,11 @@
 {
-    "counts": []
+   "counts": [
+      {
+         "Unsentenced": 5959,
+         "Released": 3178,
+         "Sentenced": 154,
+         "Prison": 9,
+         "Date": "2022-10-05"
+      }
+   ]
 }
