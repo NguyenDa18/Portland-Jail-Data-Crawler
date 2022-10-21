@@ -344,6 +344,29 @@
          "SEX ABUSE III (A Misdemeanor)": 135,
          "CRIM MISCH I (C Felony)": 131,
          "Date": "2022-10-20"
+      },
+      {
+         "UNLAW USE WEAPON (C Felony)": 497,
+         "UUMV (C Felony)": 362,
+         "COUNTY HOLD (U Unknown)": 346,
+         "IDENTITY THEFT (C Felony)": 297,
+         "SEX ABUSE I (B Felony)": 276,
+         "POSS STOLEN MV (C Felony)": 255,
+         "FELON POSS FA (C Felony)": 252,
+         "PAROLE OR PPSV VIOL (U Felony)": 218,
+         "ROBBERY I (A Felony)": 202,
+         "THEFT I (C Felony)": 200,
+         "USE CHILD DSPLY SX (A Felony)": 182,
+         "CRIM MISCH II (A Misdemeanor)": 169,
+         "ASSAULT II (B Felony)": 166,
+         "MENACING (A Misdemeanor)": 153,
+         "BURGLARY I (A Felony)": 149,
+         "ENC CHILD SEX AB 1 (B Felony)": 144,
+         "RECK ENDANGER (A Misdemeanor)": 139,
+         "USM HOLD (U Unknown)": 138,
+         "SEX ABUSE III (A Misdemeanor)": 135,
+         "ROBBERY II (B Felony)": 132,
+         "Date": "2022-10-21"
       }
    ]
 }
