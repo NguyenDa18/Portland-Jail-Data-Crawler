@@ -351,6 +351,15 @@
          "P": 4,
          "Unknown": 1,
          "Date": "2022-11-02"
+      },
+      {
+         "White": 412,
+         "Black": 303,
+         "Hispanic": 96,
+         "Asian": 25,
+         "Native American or Alaskan": 12,
+         "P": 4,
+         "Date": "2022-11-03"
       }
    ]
 }
