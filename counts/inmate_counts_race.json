@@ -360,6 +360,15 @@
          "Native American or Alaskan": 12,
          "P": 4,
          "Date": "2022-11-03"
+      },
+      {
+         "White": 419,
+         "Black": 294,
+         "Hispanic": 95,
+         "Asian": 26,
+         "Native American or Alaskan": 11,
+         "P": 5,
+         "Date": "2022-11-04"
       }
    ]
 }
