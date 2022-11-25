@@ -359,6 +359,14 @@
          "Prison": 6,
          "Unknown": 2,
          "Date": "2022-11-24"
+      },
+      {
+         "Unsentenced": 5850,
+         "Released": 2983,
+         "Sentenced": 135,
+         "Prison": 6,
+         "Unknown": 2,
+         "Date": "2022-11-25"
       }
    ]
 }
