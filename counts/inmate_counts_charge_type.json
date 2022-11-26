@@ -1172,6 +1172,29 @@
          "ROBBERY II (B Felony)": 130,
          "USM HOLD (U Unknown)": 129,
          "Date": "2022-11-25"
+      },
+      {
+         "UNLAW USE WEAPON (C Felony)": 481,
+         "UUMV (C Felony)": 310,
+         "COUNTY HOLD (U Unknown)": 308,
+         "IDENTITY THEFT (C Felony)": 267,
+         "FELON POSS FA (C Felony)": 262,
+         "SEX ABUSE I (B Felony)": 245,
+         "POSS STOLEN MV (C Felony)": 220,
+         "THEFT I (C Felony)": 200,
+         "PAROLE OR PPSV VIOL (U Felony)": 196,
+         "USE CHILD DSPLY SX (A Felony)": 181,
+         "ROBBERY I (A Felony)": 181,
+         "CRIM MISCH II (A Misdemeanor)": 165,
+         "ASSAULT II (B Felony)": 161,
+         "BURGLARY I (A Felony)": 157,
+         "MENACING (A Misdemeanor)": 153,
+         "ENC CHILD SEX AB 1 (B Felony)": 140,
+         "SEX ABUSE III (A Misdemeanor)": 134,
+         "RECK ENDANGER (A Misdemeanor)": 133,
+         "ROBBERY II (B Felony)": 130,
+         "CRIM MISCH I (C Felony)": 126,
+         "Date": "2022-11-26"
       }
    ]
 }
