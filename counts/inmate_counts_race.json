@@ -603,6 +603,15 @@
          "Native American or Alaskan": 12,
          "P": 3,
          "Date": "2022-11-30"
+      },
+      {
+         "White": 395,
+         "Black": 300,
+         "Hispanic": 105,
+         "Asian": 18,
+         "Native American or Alaskan": 13,
+         "P": 3,
+         "Date": "2022-12-01"
       }
    ]
 }
