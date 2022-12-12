@@ -1540,6 +1540,29 @@
          "MURDER II (A Felony)": 127,
          "RECK ENDANGER (A Misdemeanor)": 126,
          "Date": "2022-12-11"
+      },
+      {
+         "UNLAW USE WEAPON (C Felony)": 446,
+         "COUNTY HOLD (U Unknown)": 321,
+         "UUMV (C Felony)": 306,
+         "IDENTITY THEFT (C Felony)": 268,
+         "FELON POSS FA (C Felony)": 256,
+         "SEX ABUSE I (B Felony)": 218,
+         "POSS STOLEN MV (C Felony)": 210,
+         "PAROLE OR PPSV VIOL (U Felony)": 196,
+         "THEFT I (C Felony)": 192,
+         "USE CHILD DSPLY SX (A Felony)": 181,
+         "ROBBERY I (A Felony)": 180,
+         "CRIM MISCH II (A Misdemeanor)": 160,
+         "BURGLARY I (A Felony)": 155,
+         "ASSAULT II (B Felony)": 154,
+         "ENC CHILD SEX AB 1 (B Felony)": 143,
+         "MENACING (A Misdemeanor)": 140,
+         "SEX ABUSE III (A Misdemeanor)": 134,
+         "USM HOLD (U Unknown)": 130,
+         "MURDER II (A Felony)": 127,
+         "RECK ENDANGER (A Misdemeanor)": 125,
+         "Date": "2022-12-12"
       }
    ]
 }
