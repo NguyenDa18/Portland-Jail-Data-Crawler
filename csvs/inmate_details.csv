@@ -800,14 +800,21 @@ SWIS ID,Name,Age,Gender,Race,Height,Weight,Hair,Eyes,Arresting Agency,Booking Da
 824819,"Palmer, Shelly Lea",58,Female,White,5 ft 0 in,119 lbs,Brown,Brown,nan,12/17/2022 07:50 AM,MCDC,12/18/2022,{'AGGRAVATED THEFT I (B Felony)': 1}
 680872,"Orme, Andrea Lynn",52,Female,White,5 ft 6 in,125 lbs,Blonde,Blue,Port of Portland,12/17/2022 12:22 PM,MCDC,Unknown,"{'COUNTY HOLD (U Unknown)': 1, 'FALSE INFO (A Misdemeanor)': 1}"
 709769,"Novak, Gabriela Elena",39,Female,White,5 ft 5 in,140 lbs,Brown,Brown,Portland Sheriff,12/17/2022 10:20 AM,MCDC,Unknown,{'COUNTY HOLD (U Unknown)': 1}
+827286,"Mulvaney, James Earl",28,Male,White,6 ft 3 in,275 lbs,Brown,Brown,"Portland Police, East Precinct",12/17/2022 04:11 PM,MCDC,Unknown,"{'COUNTY HOLD (U Unknown)': 1, 'PAROLE OR PPSV VIOL (U Felony)': 1}"
 836847,"Morales, Lily Davis",38,Female,Hispanic,5 ft 1 in,128 lbs,Black,Brown,"Portland Police, North Precinct",12/17/2022 12:31 AM,MCDC,Unknown,{'ASSAULT IV - DV (A Misdemeanor)': 1}
+755943,"Macdonald, Bristol James",29,Male,White,5 ft 8 in,175 lbs,Brown,Brown,Tri-Met Police,12/17/2022 12:54 PM,MCDC,Unknown,{'COUNTY HOLD (U Unknown)': 1}
 832357,"Kinney, Shelby Christina",29,Female,White,5 ft 3 in,170 lbs,Blonde,Hazel,"Portland Police, East Precinct",12/17/2022 10:55 AM,MCDC,Unknown,{'COUNTY HOLD (U Unknown)': 1}
+733028,"Johnson, Jacob Miles",35,Male,White,5 ft 5 in,155 lbs,Brown,Brown,Gresham Police Department,12/17/2022 03:06 PM,MCDC,Unknown,{'TRESPASS II (C Misdemeanor)': 1}
 817874,"Henderson, Richard",32,Male,Black,5 ft 10 in,187 lbs,Black,Brown,nan,12/17/2022 08:03 AM,MCDC,12/18/2022,{'DUII - FELONY (C Felony)': 1}
-744941,"Harrison, Justin Michael",37,Male,White,5 ft 10 in,155 lbs,Brown,Blue,"Portland Police, East Precinct",12/17/2022 12:34 PM,MCDC,Unknown,"{'UUMV (C Felony)': 1, 'POSS STOLEN MV (C Felony)': 1}"
+744941,"Harrison, Justin Michael",37,Male,White,5 ft 10 in,155 lbs,Brown,Blue,"Portland Police, East Precinct",12/17/2022 12:34 PM,MCDC,Unknown,"{'UUMV (C Felony)': 1, 'POSS STOLEN MV (C Felony)': 1, 'BIAS CRIME I (C Felony)': 1}"
+836853,"Fodor M, Latasha Khristine",34,Female,White,5 ft 8 in,120 lbs,Blonde,Blue,"Portland Police, North Precinct",12/17/2022 03:12 PM,MCDC,Unknown,{'COUNTY HOLD (U Unknown)': 2}
 804865,"Ehly, Noelle Lacey",29,Female,White,5 ft 8 in,140 lbs,Blonde,Blue,"Portland Police, East Precinct",12/17/2022 10:39 AM,MCDC,Unknown,"{'COUNTY HOLD (U Unknown)': 3, 'UUMV (C Felony)': 1, 'POSS STOLEN MV (C Felony)': 1}"
 740623,"Edwards, Brian Gregory",43,Male,Native American or Alaskan,5 ft 7 in,180 lbs,Black,Brown,nan,12/17/2022 07:24 AM,MCDC,12/18/2022,{'DUII (A Misdemeanor)': 2}
 813220,"Dooley, Keavin William",23,Male,White,5 ft 9 in,130 lbs,Brown,Brown,"Portland Police, Central Precinct",12/17/2022 01:59 AM,MCDC,Unknown,"{'COUNTY HOLD (U Unknown)': 3, 'POSS STOLEN MV (C Felony)': 1}"
+674039,"Depaolo, Nicholas",37,Male,White,6 ft 0 in,170 lbs,Brown,Brown,"Portland Police, East Precinct",12/17/2022 03:45 PM,MCDC,Unknown,{'REST ORD VIOL CONTMT (U Misdemeanor)': 1}
 760985,"Dennis, Timothy Allen",49,Male,White,6 ft 0 in,220 lbs,Black,Brown,Gresham Police Department,12/17/2022 10:46 AM,MCDC,Unknown,"{'CRIM MISCH I (C Felony)': 1, 'CRIM MISCH III (C Misdemeanor)': 1}"
 814769,"Cruzmontesinos, Omar",43,Male,Hispanic,5 ft 5 in,133 lbs,Black,Brown,nan,12/17/2022 07:42 AM,MCDC,12/18/2022,"{'DUII (A Misdemeanor)': 1, 'CRIM MISCH II (A Misdemeanor)': 1, 'RECKLESS DRIVING (A Misdemeanor)': 1}"
+836671,"Christopher, Kim Carol",39,Female,White,5 ft 3 in,200 lbs,Brown,Brown,"Portland Police, East Precinct",12/17/2022 03:46 PM,MCDC,Unknown,{'FUGITIVE (U Felony)': 1}
+806186,"Carranza, Brendan Albert",30,Male,White,5 ft 7 in,160 lbs,Brown,Blue,"Portland Police, Central Precinct",12/17/2022 01:53 PM,MCDC,Unknown,"{'IDENTITY THEFT (C Felony)': 9, 'FELON POSS FA (C Felony)': 1, 'POSS METH FEL (C Felony)': 1, 'POSS BURG TOOLS (A Misdemeanor)': 1}"
 793452,"Baptista, Nikolas Paul",31,Male,White,5 ft 11 in,155 lbs,Brown,Hazel,"Portland Police, Central Precinct",12/17/2022 09:05 AM,MCDC,Unknown,"{'POSS STOLEN MV (C Felony)': 1, 'PAROLE OR PPSV VIOL (U Felony)': 1}"
 422445,"Allen, Larry Eugene",67,Male,White,5 ft 2 in,150 lbs,Brown,Blue,"Portland Police, East Precinct",12/17/2022 12:39 PM,MCDC,Unknown,{'COUNTY HOLD (U Unknown)': 1}
