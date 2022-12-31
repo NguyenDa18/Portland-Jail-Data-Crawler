@@ -1977,6 +1977,29 @@
          "RECK ENDANGER (A Misdemeanor)": 127,
          "ENC CHILD SEX AB 1 (B Felony)": 124,
          "Date": "2022-12-30"
+      },
+      {
+         "UNLAW USE WEAPON (C Felony)": 428,
+         "COUNTY HOLD (U Unknown)": 319,
+         "UUMV (C Felony)": 310,
+         "FELON POSS FA (C Felony)": 258,
+         "IDENTITY THEFT (C Felony)": 228,
+         "SEX ABUSE I (B Felony)": 217,
+         "POSS STOLEN MV (C Felony)": 215,
+         "THEFT I (C Felony)": 203,
+         "PAROLE OR PPSV VIOL (U Felony)": 189,
+         "USE CHILD DSPLY SX (A Felony)": 178,
+         "ROBBERY I (A Felony)": 173,
+         "BURGLARY I (A Felony)": 168,
+         "CRIM MISCH II (A Misdemeanor)": 155,
+         "ASSAULT II (B Felony)": 155,
+         "MENACING (A Misdemeanor)": 143,
+         "SEX ABUSE III (A Misdemeanor)": 137,
+         "MURDER II (A Felony)": 133,
+         "RECK ENDANGER (A Misdemeanor)": 127,
+         "ROBBERY II (B Felony)": 126,
+         "ENC CHILD SEX AB 1 (B Felony)": 124,
+         "Date": "2022-12-31"
       }
    ]
 }
