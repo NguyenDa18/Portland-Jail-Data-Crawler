@@ -1,7 +1,7 @@
 pandas==1.4.2
 beautifulsoup4==4.11.1
 requests==2.27.1
-pyopenssl==23.0.0
+pyopenssl==22.1.0
 Scrapy==2.6.2
 lxml==4.9.1
 pymongo==4.2.0
