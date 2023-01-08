@@ -2161,6 +2161,29 @@
          "ENC CHILD SEX AB 1 (B Felony)": 128,
          "ROBBERY II (B Felony)": 125,
          "Date": "2023-01-07"
+      },
+      {
+         "UNLAW USE WEAPON (C Felony)": 433,
+         "COUNTY HOLD (U Unknown)": 319,
+         "UUMV (C Felony)": 310,
+         "FELON POSS FA (C Felony)": 242,
+         "IDENTITY THEFT (C Felony)": 240,
+         "POSS STOLEN MV (C Felony)": 215,
+         "THEFT I (C Felony)": 199,
+         "PAROLE OR PPSV VIOL (U Felony)": 192,
+         "SEX ABUSE I (B Felony)": 189,
+         "USE CHILD DSPLY SX (A Felony)": 180,
+         "ROBBERY I (A Felony)": 175,
+         "CRIM MISCH II (A Misdemeanor)": 172,
+         "BURGLARY I (A Felony)": 167,
+         "ASSAULT II (B Felony)": 157,
+         "MENACING (A Misdemeanor)": 143,
+         "SEX ABUSE III (A Misdemeanor)": 138,
+         "MURDER II (A Felony)": 136,
+         "RECK ENDANGER (A Misdemeanor)": 136,
+         "ROBBERY II (B Felony)": 126,
+         "ENC CHILD SEX AB 1 (B Felony)": 123,
+         "Date": "2023-01-08"
       }
    ]
 }
