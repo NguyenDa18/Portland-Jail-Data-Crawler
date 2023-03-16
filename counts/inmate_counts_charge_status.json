@@ -1183,6 +1183,14 @@
          "Prison": 8,
          "Unknown": 2,
          "Date": "2023-03-15"
+      },
+      {
+         "Unsentenced": 5521,
+         "Released": 2392,
+         "Sentenced": 141,
+         "Prison": 9,
+         "Unknown": 2,
+         "Date": "2023-03-16"
       }
    ]
 }
