@@ -3863,6 +3863,29 @@
          "ASSAULT IV (A Misdemeanor)": 123,
          "TRESPASS II (C Misdemeanor)": 118,
          "Date": "2023-03-23"
+      },
+      {
+         "UNLAW USE WEAPON (C Felony)": 466,
+         "COUNTY HOLD (U Unknown)": 285,
+         "UUMV (C Felony)": 277,
+         "FELON POSS FA (C Felony)": 249,
+         "IDENTITY THEFT (C Felony)": 222,
+         "POSS STOLEN MV (C Felony)": 214,
+         "SEX ABUSE I (B Felony)": 210,
+         "PAROLE OR PPSV VIOL (U Felony)": 204,
+         "THEFT I (C Felony)": 192,
+         "ROBBERY I (A Felony)": 180,
+         "ASSAULT II (B Felony)": 159,
+         "MENACING (A Misdemeanor)": 151,
+         "RECK ENDANGER (A Misdemeanor)": 144,
+         "MURDER II (A Felony)": 138,
+         "CRIM MISCH II (A Misdemeanor)": 138,
+         "ROBBERY II (B Felony)": 129,
+         "FRAUD USE CC (C Felony)": 128,
+         "BURGLARY I (A Felony)": 124,
+         "ASSAULT IV (A Misdemeanor)": 120,
+         "TRESPASS II (C Misdemeanor)": 116,
+         "Date": "2023-03-24"
       }
    ]
 }
