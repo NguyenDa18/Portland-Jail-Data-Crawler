@@ -1690,6 +1690,15 @@
          "P": 5,
          "Unknown": 1,
          "Date": "2023-03-31"
+      },
+      {
+         "White": 401,
+         "Black": 277,
+         "Hispanic": 104,
+         "Native American or Alaskan": 20,
+         "Asian": 17,
+         "P": 5,
+         "Date": "2023-04-01"
       }
    ]
 }
