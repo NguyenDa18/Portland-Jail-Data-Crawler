@@ -4116,6 +4116,29 @@
          "BURGLARY I (A Felony)": 122,
          "SODOMY I (A Felony)": 118,
          "Date": "2023-04-03"
+      },
+      {
+         "UNLAW USE WEAPON (C Felony)": 469,
+         "COUNTY HOLD (U Unknown)": 287,
+         "UUMV (C Felony)": 284,
+         "IDENTITY THEFT (C Felony)": 272,
+         "FELON POSS FA (C Felony)": 254,
+         "POSS STOLEN MV (C Felony)": 221,
+         "SEX ABUSE I (B Felony)": 210,
+         "THEFT I (C Felony)": 193,
+         "PAROLE OR PPSV VIOL (U Felony)": 192,
+         "ROBBERY I (A Felony)": 183,
+         "ASSAULT II (B Felony)": 161,
+         "CRIM MISCH II (A Misdemeanor)": 149,
+         "MENACING (A Misdemeanor)": 147,
+         "MURDER II (A Felony)": 135,
+         "RECK ENDANGER (A Misdemeanor)": 135,
+         "ASSAULT IV (A Misdemeanor)": 128,
+         "FRAUD USE CC (C Felony)": 128,
+         "ROBBERY II (B Felony)": 127,
+         "SODOMY I (A Felony)": 118,
+         "BURGLARY I (A Felony)": 116,
+         "Date": "2023-04-04"
       }
    ]
 }
