@@ -4300,6 +4300,29 @@
          "CONTEMPT VIOLATE NCO (U Unknown)": 122,
          "SODOMY I (A Felony)": 120,
          "Date": "2023-04-11"
+      },
+      {
+         "UNLAW USE WEAPON (C Felony)": 463,
+         "UUMV (C Felony)": 291,
+         "COUNTY HOLD (U Unknown)": 254,
+         "FELON POSS FA (C Felony)": 251,
+         "POSS STOLEN MV (C Felony)": 227,
+         "SEX ABUSE I (B Felony)": 215,
+         "THEFT I (C Felony)": 205,
+         "IDENTITY THEFT (C Felony)": 195,
+         "ROBBERY I (A Felony)": 190,
+         "PAROLE OR PPSV VIOL (U Felony)": 190,
+         "ASSAULT II (B Felony)": 158,
+         "MENACING (A Misdemeanor)": 152,
+         "CRIM MISCH II (A Misdemeanor)": 146,
+         "RECK ENDANGER (A Misdemeanor)": 142,
+         "ASSAULT IV (A Misdemeanor)": 136,
+         "MURDER II (A Felony)": 135,
+         "ROBBERY II (B Felony)": 135,
+         "FRAUD USE CC (C Felony)": 128,
+         "SODOMY I (A Felony)": 121,
+         "BURGLARY I (A Felony)": 118,
+         "Date": "2023-04-12"
       }
    ]
 }
