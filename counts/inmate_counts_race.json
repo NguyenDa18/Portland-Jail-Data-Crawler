@@ -1970,6 +1970,16 @@
          "Native American or Alaskan": 14,
          "P": 5,
          "Date": "2023-05-01"
+      },
+      {
+         "White": 473,
+         "Black": 282,
+         "Hispanic": 106,
+         "Native American or Alaskan": 15,
+         "Asian": 13,
+         "P": 5,
+         "Unknown": 1,
+         "Date": "2023-05-02"
       }
    ]
 }
