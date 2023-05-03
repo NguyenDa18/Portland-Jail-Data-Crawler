@@ -1980,6 +1980,16 @@
          "P": 5,
          "Unknown": 1,
          "Date": "2023-05-02"
+      },
+      {
+         "White": 459,
+         "Black": 271,
+         "Hispanic": 106,
+         "Native American or Alaskan": 15,
+         "Asian": 13,
+         "P": 5,
+         "Unknown": 2,
+         "Date": "2023-05-03"
       }
    ]
 }
