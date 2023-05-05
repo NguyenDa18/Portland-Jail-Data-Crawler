@@ -2000,6 +2000,15 @@
          "P": 6,
          "Unknown": 2,
          "Date": "2023-05-04"
+      },
+      {
+         "White": 454,
+         "Black": 262,
+         "Hispanic": 108,
+         "Asian": 16,
+         "Native American or Alaskan": 14,
+         "P": 8,
+         "Date": "2023-05-05"
       }
    ]
 }
