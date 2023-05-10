@@ -4944,6 +4944,29 @@
          "ROBBERY II (B Felony)": 121,
          "BURGLARY I (A Felony)": 121,
          "Date": "2023-05-09"
+      },
+      {
+         "UNLAW USE WEAPON (C Felony)": 461,
+         "SEX ABUSE I (B Felony)": 315,
+         "UUMV (C Felony)": 283,
+         "COUNTY HOLD (U Unknown)": 251,
+         "FELON POSS FA (C Felony)": 236,
+         "POSS STOLEN MV (C Felony)": 212,
+         "PAROLE OR PPSV VIOL (U Felony)": 195,
+         "THEFT I (C Felony)": 190,
+         "IDENTITY THEFT (C Felony)": 190,
+         "ROBBERY I (A Felony)": 188,
+         "CRIM MISCH II (A Misdemeanor)": 156,
+         "MENACING (A Misdemeanor)": 152,
+         "ASSAULT II (B Felony)": 152,
+         "RECK ENDANGER (A Misdemeanor)": 148,
+         "ASSAULT IV (A Misdemeanor)": 145,
+         "MURDER II (A Felony)": 130,
+         "FRAUD USE CC (C Felony)": 128,
+         "CRIM MISCH I (C Felony)": 125,
+         "BURGLARY I (A Felony)": 124,
+         "HARASSMENT - B MISD (B Misdemeanor)": 121,
+         "Date": "2023-05-10"
       }
    ]
 }
