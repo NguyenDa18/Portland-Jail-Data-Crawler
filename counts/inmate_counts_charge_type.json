@@ -5358,6 +5358,29 @@
          "RECKLESS DRIVING (A Misdemeanor)": 127,
          "BURGLARY I (A Felony)": 124,
          "Date": "2023-05-27"
+      },
+      {
+         "UNLAW USE WEAPON (C Felony)": 445,
+         "SEX ABUSE I (B Felony)": 323,
+         "UUMV (C Felony)": 275,
+         "COUNTY HOLD (U Unknown)": 267,
+         "FELON POSS FA (C Felony)": 234,
+         "IDENTITY THEFT (C Felony)": 209,
+         "POSS STOLEN MV (C Felony)": 205,
+         "PAROLE OR PPSV VIOL (U Felony)": 191,
+         "ROBBERY I (A Felony)": 185,
+         "RECK ENDANGER (A Misdemeanor)": 183,
+         "THEFT I (C Felony)": 182,
+         "MENACING (A Misdemeanor)": 174,
+         "ASSAULT II (B Felony)": 153,
+         "CRIM MISCH II (A Misdemeanor)": 146,
+         "CRIM MISCH I (C Felony)": 142,
+         "RECKLESS DRIVING (A Misdemeanor)": 135,
+         "FRAUD USE CC (C Felony)": 134,
+         "ROBBERY II (B Felony)": 132,
+         "ATT ELUDE BY VEHCLE (C Felony)": 128,
+         "MURDER II (A Felony)": 127,
+         "Date": "2023-05-28"
       }
    ]
 }
