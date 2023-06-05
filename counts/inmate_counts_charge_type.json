@@ -5542,6 +5542,29 @@
          "FRAUD USE CC (C Felony)": 125,
          "SODOMY I (A Felony)": 118,
          "Date": "2023-06-04"
+      },
+      {
+         "UNLAW USE WEAPON (C Felony)": 440,
+         "SEX ABUSE I (B Felony)": 330,
+         "UUMV (C Felony)": 290,
+         "COUNTY HOLD (U Unknown)": 282,
+         "FELON POSS FA (C Felony)": 245,
+         "POSS STOLEN MV (C Felony)": 226,
+         "IDENTITY THEFT (C Felony)": 201,
+         "PAROLE OR PPSV VIOL (U Felony)": 194,
+         "RECK ENDANGER (A Misdemeanor)": 191,
+         "ROBBERY I (A Felony)": 180,
+         "THEFT I (C Felony)": 171,
+         "MENACING (A Misdemeanor)": 169,
+         "ASSAULT II (B Felony)": 151,
+         "CRIM MISCH II (A Misdemeanor)": 140,
+         "CRIM MISCH I (C Felony)": 139,
+         "RECKLESS DRIVING (A Misdemeanor)": 137,
+         "ATT ELUDE BY VEHCLE (C Felony)": 131,
+         "MURDER II (A Felony)": 127,
+         "FRAUD USE CC (C Felony)": 125,
+         "ASSAULT IV (A Misdemeanor)": 119,
+         "Date": "2023-06-05"
       }
    ]
 }
