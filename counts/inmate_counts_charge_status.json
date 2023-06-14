@@ -1839,6 +1839,13 @@
          "Sentenced": 132,
          "Prison": 17,
          "Date": "2023-06-13"
+      },
+      {
+         "Unsentenced": 6191,
+         "Released": 2269,
+         "Sentenced": 129,
+         "Prison": 14,
+         "Date": "2023-06-14"
       }
    ]
 }
