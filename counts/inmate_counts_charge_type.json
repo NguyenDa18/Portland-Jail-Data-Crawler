@@ -5933,6 +5933,29 @@
          "HARASSMENT - B MISD (B Misdemeanor)": 124,
          "FRAUD USE CC (C Felony)": 124,
          "Date": "2023-06-21"
+      },
+      {
+         "UNLAW USE WEAPON (C Felony)": 433,
+         "SEX ABUSE I (B Felony)": 352,
+         "COUNTY HOLD (U Unknown)": 284,
+         "UUMV (C Felony)": 269,
+         "FELON POSS FA (C Felony)": 247,
+         "IDENTITY THEFT (C Felony)": 239,
+         "RECK ENDANGER (A Misdemeanor)": 212,
+         "POSS STOLEN MV (C Felony)": 209,
+         "PAROLE OR PPSV VIOL (U Felony)": 181,
+         "MENACING (A Misdemeanor)": 174,
+         "ROBBERY I (A Felony)": 171,
+         "THEFT I (C Felony)": 170,
+         "CRIM MISCH II (A Misdemeanor)": 150,
+         "ASSAULT II (B Felony)": 146,
+         "CRIM MISCH I (C Felony)": 140,
+         "RECKLESS DRIVING (A Misdemeanor)": 131,
+         "ATT ELUDE BY VEHCLE (C Felony)": 130,
+         "PROM PROST (C Felony)": 130,
+         "BURGLARY I (A Felony)": 127,
+         "MURDER II (A Felony)": 126,
+         "Date": "2023-06-22"
       }
    ]
 }
