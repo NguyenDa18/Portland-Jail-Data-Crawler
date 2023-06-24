@@ -829,3 +829,7 @@ SWIS ID,Name,Age,Gender,Race,Height,Weight,Hair,Eyes,Arresting Agency,Booking Da
 724430,"Britt, Nicholas Edward",43,Male,White,6 ft 0 in,160 lbs,Brown,Brown,"Portland Police, Central Precinct",06/23/2023 09:49 AM,MCDC,Unknown,{'COUNTY HOLD (U Unknown)': 1}
 819089,"Brillanteperdomo, Jorge",24,Male,Hispanic,5 ft 10 in,150 lbs,Black,Brown,"Portland Police, Central Precinct",06/23/2023 11:32 AM,MCDC,Unknown,"{'COUNTY HOLD (U Unknown)': 2, 'ATT MAN DEL CS 2 (C Felony)': 1}"
 837930,"Berry, Samuel Lewis",29,Male,White,5 ft 6 in,180 lbs,Brown,Brown,nan,06/23/2023 07:18 AM,MCDC,06/24/2023,{'ENC CHILD SEX AB 1 (B Felony)': 1}
+839071,"Shaver, Alex",27,Male,White,5 ft 11 in,220 lbs,Brown,Brown,"Portland Police, East Precinct",06/24/2023 04:18 AM,MCDC,Unknown,"{'IDENTITY THEFT (C Felony)': 1, 'COUNTY HOLD (U Unknown)': 1}"
+823000,"Pereztrancozo, Cesar E",23,Male,Hispanic,5 ft 6 in,130 lbs,Black,Brown,"Portland Police, Central Precinct",06/24/2023 04:31 AM,MCDC,Unknown,{'COUNTY HOLD (U Unknown)': 1}
+142345,"Olson, Jason Boyd",50,Male,White,6 ft 2 in,300 lbs,XXX,Brown,"Portland Police, East Precinct",06/24/2023 03:07 AM,MCDC,Unknown,"{'COERCION (C Felony)': 1, 'ATT RAPE I (B Felony)': 1, 'ATT SEX ABUSE I (C Felony)': 1, 'ASSAULT IV (A Misdemeanor)': 1, 'MENACING (A Misdemeanor)': 1}"
+821778,"Buras, Blake Ryan",29,Male,White,6 ft 2 in,190 lbs,Brown,Brown,"Portland Police, East Precinct",06/24/2023 04:20 AM,MCDC,Unknown,"{'UUMV (C Felony)': 1, 'POSS STOLEN MV (C Felony)': 1, 'COUNTY HOLD (U Unknown)': 1}"
