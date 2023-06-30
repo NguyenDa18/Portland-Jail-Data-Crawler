@@ -6117,6 +6117,29 @@
          "ATT ELUDE BY VEHCLE (C Felony)": 128,
          "FRAUD USE CC (C Felony)": 125,
          "Date": "2023-06-29"
+      },
+      {
+         "UNLAW USE WEAPON (C Felony)": 459,
+         "SEX ABUSE I (B Felony)": 382,
+         "COUNTY HOLD (U Unknown)": 289,
+         "UUMV (C Felony)": 270,
+         "FELON POSS FA (C Felony)": 261,
+         "IDENTITY THEFT (C Felony)": 222,
+         "RECK ENDANGER (A Misdemeanor)": 216,
+         "POSS STOLEN MV (C Felony)": 205,
+         "PAROLE OR PPSV VIOL (U Felony)": 187,
+         "ROBBERY I (A Felony)": 184,
+         "THEFT I (C Felony)": 178,
+         "MENACING (A Misdemeanor)": 172,
+         "ROBBERY II (B Felony)": 158,
+         "CRIM MISCH II (A Misdemeanor)": 149,
+         "ASSAULT II (B Felony)": 148,
+         "RECKLESS DRIVING (A Misdemeanor)": 139,
+         "SODOMY I (A Felony)": 135,
+         "PROM PROST (C Felony)": 130,
+         "BURGLARY I (A Felony)": 129,
+         "ATT ELUDE BY VEHCLE (C Felony)": 128,
+         "Date": "2023-06-30"
       }
    ]
 }
