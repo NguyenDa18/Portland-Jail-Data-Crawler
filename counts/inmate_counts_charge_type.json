@@ -6324,6 +6324,29 @@
          "BURGLARY I (A Felony)": 129,
          "ATT ELUDE BY VEHCLE (C Felony)": 128,
          "Date": "2023-07-10"
+      },
+      {
+         "UNLAW USE WEAPON (C Felony)": 459,
+         "SEX ABUSE I (B Felony)": 364,
+         "COUNTY HOLD (U Unknown)": 327,
+         "FELON POSS FA (C Felony)": 270,
+         "UUMV (C Felony)": 261,
+         "IDENTITY THEFT (C Felony)": 230,
+         "RECK ENDANGER (A Misdemeanor)": 209,
+         "POSS STOLEN MV (C Felony)": 205,
+         "ROBBERY I (A Felony)": 187,
+         "PAROLE OR PPSV VIOL (U Felony)": 181,
+         "MENACING (A Misdemeanor)": 171,
+         "THEFT I (C Felony)": 169,
+         "ROBBERY II (B Felony)": 164,
+         "ASSAULT II (B Felony)": 146,
+         "CRIM MISCH II (A Misdemeanor)": 139,
+         "SODOMY I (A Felony)": 136,
+         "RECKLESS DRIVING (A Misdemeanor)": 136,
+         "PROM PROST (C Felony)": 135,
+         "BURGLARY I (A Felony)": 130,
+         "FRAUD USE CC (C Felony)": 125,
+         "Date": "2023-07-11"
       }
    ]
 }
