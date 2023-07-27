@@ -6669,6 +6669,29 @@
          "CRIM MISCH I (C Felony)": 130,
          "SODOMY I (A Felony)": 130,
          "Date": "2023-07-26"
+      },
+      {
+         "UNLAW USE WEAPON (C Felony)": 444,
+         "SEX ABUSE I (B Felony)": 362,
+         "COUNTY HOLD (U Unknown)": 320,
+         "UUMV (C Felony)": 267,
+         "FELON POSS FA (C Felony)": 257,
+         "RECK ENDANGER (A Misdemeanor)": 248,
+         "IDENTITY THEFT (C Felony)": 214,
+         "POSS STOLEN MV (C Felony)": 205,
+         "ROBBERY I (A Felony)": 194,
+         "PAROLE OR PPSV VIOL (U Felony)": 187,
+         "THEFT I (C Felony)": 182,
+         "ROBBERY II (B Felony)": 180,
+         "CRIM MISCH II (A Misdemeanor)": 171,
+         "MENACING (A Misdemeanor)": 157,
+         "ASSAULT II (B Felony)": 143,
+         "RECKLESS DRIVING (A Misdemeanor)": 142,
+         "PROM PROST (C Felony)": 135,
+         "CRIM MISCH I (C Felony)": 132,
+         "ATT ELUDE BY VEHCLE (C Felony)": 131,
+         "HARASSMENT - B MISD (B Misdemeanor)": 130,
+         "Date": "2023-07-27"
       }
    ]
 }
