@@ -2808,6 +2808,16 @@
          "Native American or Alaskan": 10,
          "Unknown": 1,
          "Date": "2023-08-04"
+      },
+      {
+         "White": 460,
+         "Black": 268,
+         "Hispanic": 133,
+         "Asian": 21,
+         "P": 13,
+         "Native American or Alaskan": 9,
+         "Unknown": 1,
+         "Date": "2023-08-05"
       }
    ]
 }
