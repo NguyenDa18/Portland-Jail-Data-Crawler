@@ -7474,6 +7474,29 @@
          "ATT ELUDE BY VEHCLE (C Felony)": 141,
          "BURGLARY I (A Felony)": 138,
          "Date": "2023-08-30"
+      },
+      {
+         "UNLAW USE WEAPON (C Felony)": 451,
+         "SEX ABUSE I (B Felony)": 379,
+         "RECK ENDANGER (A Misdemeanor)": 301,
+         "UUMV (C Felony)": 282,
+         "COUNTY HOLD (U Unknown)": 281,
+         "FELON POSS FA (C Felony)": 242,
+         "POSS STOLEN MV (C Felony)": 235,
+         "PAROLE OR PPSV VIOL (U Felony)": 190,
+         "ROBBERY I (A Felony)": 188,
+         "ROBBERY II (B Felony)": 178,
+         "CRIM MISCH II (A Misdemeanor)": 171,
+         "ASSAULT II (B Felony)": 156,
+         "MENACING (A Misdemeanor)": 151,
+         "RECKLESS DRIVING (A Misdemeanor)": 146,
+         "SODOMY I (A Felony)": 143,
+         "HARASSMENT - B MISD (B Misdemeanor)": 143,
+         "CRIM MISCH I (C Felony)": 141,
+         "IDENTITY THEFT (C Felony)": 139,
+         "ASSAULT IV (A Misdemeanor)": 136,
+         "BURGLARY I (A Felony)": 133,
+         "Date": "2023-09-20"
       }
    ]
 }
