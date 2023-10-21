@@ -8187,6 +8187,29 @@
          "IDENTITY THEFT (C Felony)": 130,
          "ATT ELUDE BY VEHCLE (C Felony)": 128,
          "Date": "2023-10-20"
+      },
+      {
+         "UNLAW USE WEAPON (C Felony)": 469,
+         "SEX ABUSE I (B Felony)": 367,
+         "RECK ENDANGER (A Misdemeanor)": 312,
+         "COUNTY HOLD (U Unknown)": 290,
+         "UUMV (C Felony)": 269,
+         "FELON POSS FA (C Felony)": 233,
+         "POSS STOLEN MV (C Felony)": 217,
+         "PAROLE OR PPSV VIOL (U Felony)": 214,
+         "ROBBERY II (B Felony)": 206,
+         "ROBBERY I (A Felony)": 194,
+         "CRIM MISCH II (A Misdemeanor)": 170,
+         "MENACING (A Misdemeanor)": 163,
+         "ASSAULT II (B Felony)": 146,
+         "SODOMY I (A Felony)": 144,
+         "RECKLESS DRIVING (A Misdemeanor)": 143,
+         "CRIM MISCH I (C Felony)": 141,
+         "BURGLARY I (A Felony)": 137,
+         "ASSAULT IV (A Misdemeanor)": 135,
+         "ATT ELUDE BY VEHCLE (C Felony)": 130,
+         "MURDER II (A Felony)": 125,
+         "Date": "2023-10-21"
       }
    ]
 }
