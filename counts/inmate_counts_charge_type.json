@@ -8325,6 +8325,29 @@
          "BURGLARY I (A Felony)": 128,
          "ASSAULT IV (A Misdemeanor)": 127,
          "Date": "2023-10-26"
+      },
+      {
+         "UNLAW USE WEAPON (C Felony)": 476,
+         "RECK ENDANGER (A Misdemeanor)": 401,
+         "SEX ABUSE I (B Felony)": 368,
+         "COUNTY HOLD (U Unknown)": 273,
+         "UUMV (C Felony)": 266,
+         "FELON POSS FA (C Felony)": 237,
+         "POSS STOLEN MV (C Felony)": 214,
+         "PAROLE OR PPSV VIOL (U Felony)": 209,
+         "ROBBERY II (B Felony)": 202,
+         "ROBBERY I (A Felony)": 194,
+         "ATT MURDER II (A Felony)": 185,
+         "MENACING (A Misdemeanor)": 160,
+         "CRIM MISCH II (A Misdemeanor)": 151,
+         "ASSAULT II (B Felony)": 145,
+         "SODOMY I (A Felony)": 142,
+         "RECKLESS DRIVING (A Misdemeanor)": 139,
+         "CRIM MISCH I (C Felony)": 130,
+         "ATT ELUDE BY VEHCLE (C Felony)": 130,
+         "HARASSMENT - B MISD (B Misdemeanor)": 129,
+         "ASSAULT IV (A Misdemeanor)": 129,
+         "Date": "2023-10-27"
       }
    ]
 }
