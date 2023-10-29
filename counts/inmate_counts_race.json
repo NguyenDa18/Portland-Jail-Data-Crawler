@@ -3429,6 +3429,16 @@
          "P": 10,
          "Unknown": 1,
          "Date": "2023-10-28"
+      },
+      {
+         "White": 459,
+         "Black": 286,
+         "Hispanic": 120,
+         "Asian": 20,
+         "Native American or Alaskan": 13,
+         "P": 11,
+         "Unknown": 1,
+         "Date": "2023-10-29"
       }
    ]
 }
