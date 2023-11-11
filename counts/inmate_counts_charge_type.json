@@ -8647,6 +8647,29 @@
          "CRIM MISCH I (C Felony)": 136,
          "HARASSMENT - B MISD (B Misdemeanor)": 133,
          "Date": "2023-11-10"
+      },
+      {
+         "UNLAW USE WEAPON (C Felony)": 495,
+         "RECK ENDANGER (A Misdemeanor)": 393,
+         "SEX ABUSE I (B Felony)": 365,
+         "COUNTY HOLD (U Unknown)": 300,
+         "UUMV (C Felony)": 254,
+         "FELON POSS FA (C Felony)": 241,
+         "PAROLE OR PPSV VIOL (U Felony)": 222,
+         "POSS STOLEN MV (C Felony)": 208,
+         "ROBBERY II (B Felony)": 203,
+         "ROBBERY I (A Felony)": 197,
+         "ATT MURDER II (A Felony)": 184,
+         "MENACING (A Misdemeanor)": 179,
+         "CRIM MISCH II (A Misdemeanor)": 175,
+         "SEX ABUSE II (C Felony)": 158,
+         "SODOMY I (A Felony)": 142,
+         "TRESPASS II (C Misdemeanor)": 139,
+         "ASSAULT II (B Felony)": 139,
+         "RECKLESS DRIVING (A Misdemeanor)": 137,
+         "CRIM MISCH I (C Felony)": 137,
+         "HARASSMENT - B MISD (B Misdemeanor)": 135,
+         "Date": "2023-11-11"
       }
    ]
 }
