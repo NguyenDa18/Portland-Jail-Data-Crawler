@@ -8739,6 +8739,29 @@
          "ASSAULT IV (A Misdemeanor)": 135,
          "CRIM MISCH I (C Felony)": 134,
          "Date": "2023-11-14"
+      },
+      {
+         "UNLAW USE WEAPON (C Felony)": 478,
+         "RECK ENDANGER (A Misdemeanor)": 377,
+         "SEX ABUSE I (B Felony)": 366,
+         "COUNTY HOLD (U Unknown)": 307,
+         "UUMV (C Felony)": 248,
+         "FELON POSS FA (C Felony)": 232,
+         "PAROLE OR PPSV VIOL (U Felony)": 222,
+         "ROBBERY II (B Felony)": 202,
+         "POSS STOLEN MV (C Felony)": 202,
+         "ROBBERY I (A Felony)": 193,
+         "ATT MURDER II (A Felony)": 183,
+         "CRIM MISCH II (A Misdemeanor)": 175,
+         "MENACING (A Misdemeanor)": 173,
+         "SEX ABUSE II (C Felony)": 158,
+         "SODOMY I (A Felony)": 142,
+         "ASSAULT II (B Felony)": 135,
+         "ASSAULT IV (A Misdemeanor)": 135,
+         "TRESPASS II (C Misdemeanor)": 133,
+         "CRIM MISCH I (C Felony)": 133,
+         "RECKLESS DRIVING (A Misdemeanor)": 132,
+         "Date": "2023-11-15"
       }
    ]
 }
