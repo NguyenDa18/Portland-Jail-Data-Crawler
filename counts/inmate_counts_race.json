@@ -3834,6 +3834,16 @@
          "P": 12,
          "Unknown": 1,
          "Date": "2023-12-12"
+      },
+      {
+         "White": 425,
+         "Black": 278,
+         "Hispanic": 95,
+         "Asian": 19,
+         "Native American or Alaskan": 14,
+         "P": 12,
+         "Unknown": 1,
+         "Date": "2023-12-13"
       }
    ]
 }
