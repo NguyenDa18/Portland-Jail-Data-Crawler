@@ -10464,6 +10464,29 @@
          "ATT ELUDE BY VEHCLE (C Felony)": 133,
          "ASSAULT II (B Felony)": 131,
          "Date": "2024-01-28"
+      },
+      {
+         "UNLAW USE WEAPON (C Felony)": 465,
+         "COUNTY HOLD (U Unknown)": 345,
+         "SEX ABUSE I (B Felony)": 335,
+         "RECK ENDANGER (A Misdemeanor)": 303,
+         "UUMV (C Felony)": 269,
+         "FELON POSS FA (C Felony)": 248,
+         "POSS STOLEN MV (C Felony)": 232,
+         "PAROLE OR PPSV VIOL (U Felony)": 213,
+         "ROBBERY I (A Felony)": 199,
+         "CRIM MISCH II (A Misdemeanor)": 196,
+         "ROBBERY II (B Felony)": 195,
+         "CRIM MISCH I (C Felony)": 171,
+         "MENACING (A Misdemeanor)": 170,
+         "BURGLARY I (A Felony)": 165,
+         "RECKLESS DRIVING (A Misdemeanor)": 150,
+         "HARASSMENT - B MISD (B Misdemeanor)": 147,
+         "SEX ABUSE II (C Felony)": 141,
+         "ASSAULT IV (A Misdemeanor)": 137,
+         "ATT ELUDE BY VEHCLE (C Felony)": 135,
+         "ASSAULT II (B Felony)": 131,
+         "Date": "2024-01-29"
       }
    ]
 }
