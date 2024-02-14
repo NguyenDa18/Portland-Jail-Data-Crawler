@@ -4432,6 +4432,16 @@
          "P": 8,
          "Unknown": 1,
          "Date": "2024-02-13"
+      },
+      {
+         "White": 416,
+         "Black": 297,
+         "Hispanic": 119,
+         "Asian": 20,
+         "Native American or Alaskan": 16,
+         "P": 8,
+         "Unknown": 1,
+         "Date": "2024-02-14"
       }
    ]
 }
