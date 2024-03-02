@@ -11223,6 +11223,29 @@
          "ASSAULT IV (A Misdemeanor)": 140,
          "ASSAULT II (B Felony)": 129,
          "Date": "2024-03-01"
+      },
+      {
+         "UNLAW USE WEAPON (C Felony)": 471,
+         "RECK ENDANGER (A Misdemeanor)": 341,
+         "SEX ABUSE I (B Felony)": 322,
+         "COUNTY HOLD (U Unknown)": 310,
+         "UUMV (C Felony)": 275,
+         "FELON POSS FA (C Felony)": 248,
+         "POSS STOLEN MV (C Felony)": 220,
+         "PAROLE OR PPSV VIOL (U Felony)": 212,
+         "BURGLARY I (A Felony)": 201,
+         "CRIM MISCH II (A Misdemeanor)": 192,
+         "ROBBERY I (A Felony)": 180,
+         "MENACING (A Misdemeanor)": 179,
+         "ROBBERY II (B Felony)": 170,
+         "CRIM MISCH I (C Felony)": 162,
+         "SODOMY I (A Felony)": 156,
+         "RECKLESS DRIVING (A Misdemeanor)": 150,
+         "SEX ABUSE II (C Felony)": 143,
+         "ATT ELUDE BY VEHCLE (C Felony)": 142,
+         "ASSAULT IV (A Misdemeanor)": 139,
+         "TRESPASS II (C Misdemeanor)": 129,
+         "Date": "2024-03-02"
       }
    ]
 }
