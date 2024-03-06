@@ -11,7 +11,7 @@ class InmateSpider(scrapy.Spider):
         os.remove(file)
 
     def start_requests(self):
-        urls = ["http://www.mcso.us/PAID/Home/SearchResults"]
+        urls = ["https://apps.mcso.us/PAID/Home/SearchResults"]
         for url in urls:
             yield scrapy.Request(url = url, 
                         method="POST",
