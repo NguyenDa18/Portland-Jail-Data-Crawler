@@ -4184,6 +4184,464 @@
          "P": 12,
          "Native American or Alaskan": 11,
          "Date": "2024-01-17"
+      },
+      {
+         "White": 446,
+         "Black": 313,
+         "Hispanic": 130,
+         "Asian": 17,
+         "Native American or Alaskan": 13,
+         "P": 12,
+         "Date": "2024-01-18"
+      },
+      {
+         "White": 443,
+         "Black": 319,
+         "Hispanic": 130,
+         "Asian": 18,
+         "P": 14,
+         "Native American or Alaskan": 13,
+         "Date": "2024-01-19"
+      },
+      {
+         "White": 434,
+         "Black": 316,
+         "Hispanic": 129,
+         "Asian": 18,
+         "P": 13,
+         "Native American or Alaskan": 13,
+         "Date": "2024-01-20"
+      },
+      {
+         "White": 435,
+         "Black": 311,
+         "Hispanic": 131,
+         "Asian": 19,
+         "Native American or Alaskan": 14,
+         "P": 13,
+         "Date": "2024-01-21"
+      },
+      {
+         "White": 440,
+         "Black": 308,
+         "Hispanic": 126,
+         "Asian": 19,
+         "Native American or Alaskan": 13,
+         "P": 12,
+         "Date": "2024-01-22"
+      },
+      {
+         "White": 437,
+         "Black": 309,
+         "Hispanic": 125,
+         "Asian": 20,
+         "Native American or Alaskan": 13,
+         "P": 12,
+         "Date": "2024-01-23"
+      },
+      {
+         "White": 428,
+         "Black": 307,
+         "Hispanic": 109,
+         "Asian": 20,
+         "P": 14,
+         "Native American or Alaskan": 14,
+         "Date": "2024-01-24"
+      },
+      {
+         "White": 416,
+         "Black": 303,
+         "Hispanic": 107,
+         "Asian": 20,
+         "P": 12,
+         "Native American or Alaskan": 11,
+         "Date": "2024-01-25"
+      },
+      {
+         "White": 416,
+         "Black": 311,
+         "Hispanic": 106,
+         "Asian": 20,
+         "Native American or Alaskan": 13,
+         "P": 12,
+         "Date": "2024-01-26"
+      },
+      {
+         "White": 413,
+         "Black": 307,
+         "Hispanic": 115,
+         "Asian": 22,
+         "P": 12,
+         "Native American or Alaskan": 12,
+         "Date": "2024-01-27"
+      },
+      {
+         "White": 427,
+         "Black": 314,
+         "Hispanic": 116,
+         "Asian": 22,
+         "P": 14,
+         "Native American or Alaskan": 14,
+         "Date": "2024-01-28"
+      },
+      {
+         "White": 435,
+         "Black": 313,
+         "Hispanic": 117,
+         "Asian": 22,
+         "Native American or Alaskan": 15,
+         "P": 13,
+         "Date": "2024-01-29"
+      },
+      {
+         "White": 445,
+         "Black": 310,
+         "Hispanic": 122,
+         "Asian": 23,
+         "Native American or Alaskan": 15,
+         "P": 13,
+         "Date": "2024-01-30"
+      },
+      {
+         "White": 428,
+         "Black": 305,
+         "Hispanic": 114,
+         "Asian": 21,
+         "Native American or Alaskan": 13,
+         "P": 12,
+         "Date": "2024-01-31"
+      },
+      {
+         "White": 426,
+         "Black": 306,
+         "Hispanic": 116,
+         "Asian": 22,
+         "Native American or Alaskan": 13,
+         "P": 12,
+         "Date": "2024-02-01"
+      },
+      {
+         "White": 419,
+         "Black": 306,
+         "Hispanic": 118,
+         "Asian": 22,
+         "Native American or Alaskan": 12,
+         "P": 10,
+         "Date": "2024-02-02"
+      },
+      {
+         "White": 427,
+         "Black": 310,
+         "Hispanic": 124,
+         "Asian": 21,
+         "Native American or Alaskan": 12,
+         "P": 11,
+         "Date": "2024-02-03"
+      },
+      {
+         "White": 438,
+         "Black": 310,
+         "Hispanic": 124,
+         "Asian": 21,
+         "Native American or Alaskan": 13,
+         "P": 12,
+         "Date": "2024-02-04"
+      },
+      {
+         "White": 455,
+         "Black": 315,
+         "Hispanic": 124,
+         "Asian": 23,
+         "Native American or Alaskan": 13,
+         "P": 11,
+         "Date": "2024-02-05"
+      },
+      {
+         "White": 455,
+         "Black": 315,
+         "Hispanic": 123,
+         "Asian": 23,
+         "Native American or Alaskan": 14,
+         "P": 11,
+         "Date": "2024-02-06"
+      },
+      {
+         "White": 438,
+         "Black": 312,
+         "Hispanic": 124,
+         "Asian": 23,
+         "Native American or Alaskan": 13,
+         "P": 8,
+         "Date": "2024-02-07"
+      },
+      {
+         "White": 431,
+         "Black": 307,
+         "Hispanic": 118,
+         "Asian": 21,
+         "Native American or Alaskan": 13,
+         "P": 8,
+         "Date": "2024-02-08"
+      },
+      {
+         "White": 420,
+         "Black": 308,
+         "Hispanic": 111,
+         "Asian": 21,
+         "Native American or Alaskan": 12,
+         "P": 8,
+         "Unknown": 1,
+         "Date": "2024-02-09"
+      },
+      {
+         "White": 416,
+         "Black": 303,
+         "Hispanic": 116,
+         "Asian": 21,
+         "Native American or Alaskan": 12,
+         "P": 8,
+         "Unknown": 1,
+         "Date": "2024-02-10"
+      },
+      {
+         "White": 420,
+         "Black": 306,
+         "Hispanic": 115,
+         "Asian": 21,
+         "Native American or Alaskan": 14,
+         "P": 9,
+         "Unknown": 1,
+         "Date": "2024-02-11"
+      },
+      {
+         "White": 430,
+         "Black": 307,
+         "Hispanic": 121,
+         "Asian": 22,
+         "Native American or Alaskan": 15,
+         "P": 8,
+         "Unknown": 1,
+         "Date": "2024-02-12"
+      },
+      {
+         "White": 431,
+         "Black": 308,
+         "Hispanic": 127,
+         "Asian": 21,
+         "Native American or Alaskan": 15,
+         "P": 8,
+         "Unknown": 1,
+         "Date": "2024-02-13"
+      },
+      {
+         "White": 416,
+         "Black": 297,
+         "Hispanic": 119,
+         "Asian": 20,
+         "Native American or Alaskan": 16,
+         "P": 8,
+         "Unknown": 1,
+         "Date": "2024-02-14"
+      },
+      {
+         "White": 422,
+         "Black": 301,
+         "Hispanic": 118,
+         "Asian": 21,
+         "Native American or Alaskan": 17,
+         "P": 9,
+         "Unknown": 1,
+         "Date": "2024-02-15"
+      },
+      {
+         "White": 428,
+         "Black": 294,
+         "Hispanic": 114,
+         "Asian": 22,
+         "Native American or Alaskan": 13,
+         "P": 9,
+         "Unknown": 1,
+         "Date": "2024-02-16"
+      },
+      {
+         "White": 426,
+         "Black": 298,
+         "Hispanic": 113,
+         "Asian": 23,
+         "Native American or Alaskan": 12,
+         "P": 8,
+         "Unknown": 1,
+         "Date": "2024-02-17"
+      },
+      {
+         "White": 430,
+         "Black": 303,
+         "Hispanic": 114,
+         "Asian": 25,
+         "Native American or Alaskan": 12,
+         "P": 9,
+         "Unknown": 1,
+         "Date": "2024-02-18"
+      },
+      {
+         "White": 434,
+         "Black": 304,
+         "Hispanic": 118,
+         "Asian": 25,
+         "Native American or Alaskan": 12,
+         "P": 9,
+         "Unknown": 1,
+         "Date": "2024-02-19"
+      },
+      {
+         "White": 457,
+         "Black": 306,
+         "Hispanic": 118,
+         "Asian": 25,
+         "Native American or Alaskan": 13,
+         "P": 9,
+         "Unknown": 1,
+         "Date": "2024-02-20"
+      },
+      {
+         "White": 447,
+         "Black": 306,
+         "Hispanic": 117,
+         "Asian": 22,
+         "Native American or Alaskan": 13,
+         "P": 11,
+         "Unknown": 1,
+         "Date": "2024-02-21"
+      },
+      {
+         "White": 437,
+         "Black": 295,
+         "Hispanic": 107,
+         "Asian": 23,
+         "Native American or Alaskan": 13,
+         "P": 9,
+         "Unknown": 1,
+         "Date": "2024-02-22"
+      },
+      {
+         "White": 432,
+         "Black": 298,
+         "Hispanic": 106,
+         "Asian": 23,
+         "Native American or Alaskan": 13,
+         "P": 9,
+         "Unknown": 1,
+         "Date": "2024-02-23"
+      },
+      {
+         "White": 444,
+         "Black": 293,
+         "Hispanic": 104,
+         "Asian": 21,
+         "Native American or Alaskan": 12,
+         "P": 8,
+         "Unknown": 1,
+         "Date": "2024-02-24"
+      },
+      {
+         "White": 441,
+         "Black": 297,
+         "Hispanic": 118,
+         "Asian": 22,
+         "Native American or Alaskan": 13,
+         "P": 9,
+         "Unknown": 1,
+         "Date": "2024-02-25"
+      },
+      {
+         "White": 453,
+         "Black": 301,
+         "Hispanic": 122,
+         "Asian": 22,
+         "Native American or Alaskan": 13,
+         "P": 8,
+         "Unknown": 1,
+         "Date": "2024-02-26"
+      },
+      {
+         "White": 462,
+         "Black": 296,
+         "Hispanic": 123,
+         "Asian": 23,
+         "Native American or Alaskan": 13,
+         "P": 8,
+         "Unknown": 1,
+         "Date": "2024-02-27"
+      },
+      {
+         "White": 443,
+         "Black": 284,
+         "Hispanic": 113,
+         "Asian": 23,
+         "Native American or Alaskan": 14,
+         "P": 7,
+         "Unknown": 1,
+         "Date": "2024-02-28"
+      },
+      {
+         "White": 451,
+         "Black": 290,
+         "Hispanic": 114,
+         "Asian": 22,
+         "Native American or Alaskan": 12,
+         "P": 8,
+         "Unknown": 1,
+         "Date": "2024-02-29"
+      },
+      {
+         "White": 444,
+         "Black": 289,
+         "Hispanic": 111,
+         "Asian": 24,
+         "Native American or Alaskan": 11,
+         "P": 7,
+         "Unknown": 1,
+         "Date": "2024-03-01"
+      },
+      {
+         "White": 447,
+         "Black": 287,
+         "Hispanic": 108,
+         "Asian": 24,
+         "Native American or Alaskan": 13,
+         "P": 7,
+         "Unknown": 1,
+         "Date": "2024-03-02"
+      },
+      {
+         "White": 457,
+         "Black": 293,
+         "Hispanic": 110,
+         "Asian": 25,
+         "Native American or Alaskan": 12,
+         "P": 8,
+         "Unknown": 2,
+         "Date": "2024-03-03"
+      },
+      {
+         "White": 463,
+         "Black": 298,
+         "Hispanic": 113,
+         "Asian": 25,
+         "Native American or Alaskan": 11,
+         "P": 7,
+         "Unknown": 2,
+         "Date": "2024-03-04"
+      },
+      {
+         "White": 457,
+         "Black": 296,
+         "Hispanic": 114,
+         "Asian": 25,
+         "Native American or Alaskan": 11,
+         "P": 7,
+         "Unknown": 2,
+         "Date": "2024-03-05"
       }
    ]
 }
