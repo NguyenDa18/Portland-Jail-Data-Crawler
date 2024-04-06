@@ -3743,6 +3743,99 @@
          "Prison": 19,
          "Unknown": 1,
          "Date": "2024-03-24"
+      },
+      {
+         "Unsentenced": 7130,
+         "Released": 2207,
+         "Sentenced": 168,
+         "Prison": 19,
+         "Date": "2024-03-25"
+      },
+      {
+         "Unsentenced": 7151,
+         "Released": 2243,
+         "Sentenced": 156,
+         "Prison": 14,
+         "Date": "2024-03-26"
+      },
+      {
+         "Unsentenced": 7042,
+         "Released": 2251,
+         "Sentenced": 158,
+         "Prison": 14,
+         "Date": "2024-03-27"
+      },
+      {
+         "Unsentenced": 7075,
+         "Released": 2240,
+         "Sentenced": 160,
+         "Prison": 14,
+         "Date": "2024-03-28"
+      },
+      {
+         "Unsentenced": 7054,
+         "Released": 2246,
+         "Sentenced": 161,
+         "Prison": 15,
+         "Date": "2024-03-29"
+      },
+      {
+         "Unsentenced": 7005,
+         "Released": 2298,
+         "Sentenced": 170,
+         "Prison": 17,
+         "Unknown": 1,
+         "Date": "2024-03-30"
+      },
+      {
+         "Unsentenced": 7036,
+         "Released": 2267,
+         "Sentenced": 180,
+         "Prison": 22,
+         "Date": "2024-03-31"
+      },
+      {
+         "Unsentenced": 7111,
+         "Released": 2306,
+         "Sentenced": 176,
+         "Prison": 22,
+         "Date": "2024-04-01"
+      },
+      {
+         "Unsentenced": 7065,
+         "Released": 2358,
+         "Sentenced": 170,
+         "Prison": 32,
+         "Date": "2024-04-02"
+      },
+      {
+         "Unsentenced": 6908,
+         "Released": 2287,
+         "Sentenced": 173,
+         "Prison": 20,
+         "Date": "2024-04-03"
+      },
+      {
+         "Unsentenced": 7002,
+         "Released": 2224,
+         "Sentenced": 172,
+         "Prison": 20,
+         "Date": "2024-04-04"
+      },
+      {
+         "Unsentenced": 7040,
+         "Released": 2260,
+         "Sentenced": 163,
+         "Prison": 21,
+         "Date": "2024-04-05"
+      },
+      {
+         "Unsentenced": 7084,
+         "Released": 2222,
+         "Sentenced": 176,
+         "Prison": 26,
+         "Unknown": 1,
+         "Date": "2024-04-06"
       }
    ]
 }
