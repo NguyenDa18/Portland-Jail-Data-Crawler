@@ -5012,6 +5012,16 @@
          "P": 6,
          "Unknown": 1,
          "Date": "2024-04-12"
+      },
+      {
+         "White": 475,
+         "Black": 275,
+         "Hispanic": 117,
+         "Asian": 26,
+         "Native American or Alaskan": 17,
+         "P": 6,
+         "Unknown": 1,
+         "Date": "2024-04-13"
       }
    ]
 }
