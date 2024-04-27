@@ -3980,6 +3980,14 @@
          "Prison": 32,
          "Unknown": 1,
          "Date": "2024-04-26"
+      },
+      {
+         "Unsentenced": 7083,
+         "Released": 2449,
+         "Sentenced": 184,
+         "Prison": 39,
+         "Unknown": 2,
+         "Date": "2024-04-27"
       }
    ]
 }
