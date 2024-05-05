@@ -5222,6 +5222,16 @@
          "P": 3,
          "Unknown": 1,
          "Date": "2024-05-04"
+      },
+      {
+         "White": 465,
+         "Black": 295,
+         "Hispanic": 115,
+         "Asian": 23,
+         "Native American or Alaskan": 20,
+         "P": 4,
+         "Unknown": 1,
+         "Date": "2024-05-05"
       }
    ]
 }
