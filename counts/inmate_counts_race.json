@@ -5403,6 +5403,15 @@
          "P": 3,
          "Unknown": 1,
          "Date": "2024-05-23"
+      },
+      {
+         "White": 472,
+         "Black": 289,
+         "Hispanic": 108,
+         "Asian": 28,
+         "Native American or Alaskan": 19,
+         "P": 3,
+         "Date": "2024-05-24"
       }
    ]
 }
