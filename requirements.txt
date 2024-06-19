@@ -7,3 +7,4 @@ lxml==4.9.1
 pymongo==4.2.0
 dnspython==2.2.1
 Twisted==22.10.0
+numpy==2.0.0
