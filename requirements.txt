@@ -1,4 +1,4 @@
-pandas==1.4.2
+pandas==2.1.2
 beautifulsoup4==4.11.1
 requests==2.27.1
 pyopenssl==23.0.0
@@ -7,4 +7,3 @@ lxml==4.9.1
 pymongo==4.2.0
 dnspython==2.2.1
 Twisted==22.10.0
-numpy==2.0.0
