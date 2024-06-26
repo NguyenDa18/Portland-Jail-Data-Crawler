@@ -5673,6 +5673,16 @@
          "Native American or Alaskan": 17,
          "P": 5,
          "Date": "2024-06-25"
+      },
+      {
+         "White": 486,
+         "Black": 304,
+         "Hispanic": 103,
+         "Asian": 24,
+         "Native American or Alaskan": 17,
+         "P": 5,
+         "Unknown": 1,
+         "Date": "2024-06-26"
       }
    ]
 }
