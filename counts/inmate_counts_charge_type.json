@@ -14259,6 +14259,29 @@
          "BURGLARY I (A Felony)": 159,
          "RAPE I (A Felony)": 153,
          "Date": "2024-07-16"
+      },
+      {
+         "UNLAW USE WEAPON (C Felony)": 521,
+         "RECK ENDANGER (A Misdemeanor)": 394,
+         "COUNTY HOLD (U Unknown)": 361,
+         "SEX ABUSE I (B Felony)": 275,
+         "UUMV (C Felony)": 271,
+         "POSS STOLEN MV (C Felony)": 237,
+         "FELON POSS FA (C Felony)": 233,
+         "MENACING (A Misdemeanor)": 201,
+         "CRIM MISCH I (C Felony)": 193,
+         "PAROLE OR PPSV VIOL (U Felony)": 192,
+         "ROBBERY I (A Felony)": 189,
+         "ROBBERY II (B Felony)": 188,
+         "TRESPASS II (C Misdemeanor)": 185,
+         "CRIM MISCH II (A Misdemeanor)": 177,
+         "SEX ABUSE II (C Felony)": 170,
+         "RECKLESS DRIVING (A Misdemeanor)": 168,
+         "SODOMY I (A Felony)": 160,
+         "ASSAULT IV (A Misdemeanor)": 157,
+         "BURGLARY I (A Felony)": 155,
+         "RAPE I (A Felony)": 153,
+         "Date": "2024-07-17"
       }
    ]
 }
