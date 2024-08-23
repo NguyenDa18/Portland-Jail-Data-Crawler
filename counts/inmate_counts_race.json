@@ -6190,6 +6190,15 @@
          "P": 13,
          "Unknown": 1,
          "Date": "2024-08-22"
+      },
+      {
+         "White": 473,
+         "Black": 287,
+         "Hispanic": 110,
+         "Asian": 28,
+         "Native American or Alaskan": 14,
+         "P": 12,
+         "Date": "2024-08-23"
       }
    ]
 }
