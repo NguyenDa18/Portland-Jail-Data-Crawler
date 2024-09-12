@@ -5040,6 +5040,14 @@
          "Prison": 22,
          "Unknown": 9,
          "Date": "2024-09-11"
+      },
+      {
+         "Unsentenced": 7262,
+         "Released": 2209,
+         "Sentenced": 214,
+         "Prison": 22,
+         "Unknown": 8,
+         "Date": "2024-09-12"
       }
    ]
 }
