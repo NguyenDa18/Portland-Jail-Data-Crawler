@@ -5192,6 +5192,14 @@
          "Prison": 34,
          "Unknown": 5,
          "Date": "2024-09-30"
+      },
+      {
+         "Unsentenced": 7348,
+         "Released": 2148,
+         "Sentenced": 232,
+         "Prison": 25,
+         "Unknown": 5,
+         "Date": "2024-10-01"
       }
    ]
 }
