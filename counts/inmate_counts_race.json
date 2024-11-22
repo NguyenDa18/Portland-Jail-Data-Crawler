@@ -7017,6 +7017,15 @@
          "P": 11,
          "Unknown": 1,
          "Date": "2024-11-21"
+      },
+      {
+         "White": 494,
+         "Black": 298,
+         "Hispanic": 124,
+         "Asian": 23,
+         "Native American or Alaskan": 11,
+         "P": 10,
+         "Date": "2024-11-22"
       }
    ]
 }
