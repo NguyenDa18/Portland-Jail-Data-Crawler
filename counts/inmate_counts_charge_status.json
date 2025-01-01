@@ -5928,6 +5928,13 @@
          "Prison": 20,
          "Unknown": 1,
          "Date": "2024-12-31"
+      },
+      {
+         "Unsentenced": 7236,
+         "Released": 2342,
+         "Sentenced": 210,
+         "Prison": 21,
+         "Date": "2025-01-01"
       }
    ]
 }
