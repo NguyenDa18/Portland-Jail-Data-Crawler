@@ -7627,6 +7627,16 @@
          "Native American or Alaskan": 11,
          "P": 11,
          "Date": "2025-01-26"
+      },
+      {
+         "White": 525,
+         "Black": 308,
+         "Hispanic": 127,
+         "Asian": 32,
+         "Native American or Alaskan": 11,
+         "P": 11,
+         "Unknown": 1,
+         "Date": "2025-01-27"
       }
    ]
 }

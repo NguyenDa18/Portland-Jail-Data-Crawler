@@ -6120,6 +6120,14 @@
          "Prison": 18,
          "Unknown": 1,
          "Date": "2025-01-26"
+      },
+      {
+         "Unsentenced": 7558,
+         "Released": 2569,
+         "Sentenced": 208,
+         "Prison": 18,
+         "Unknown": 1,
+         "Date": "2025-01-27"
       }
    ]
 }
