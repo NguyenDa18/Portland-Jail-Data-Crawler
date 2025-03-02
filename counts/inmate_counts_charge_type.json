@@ -19457,6 +19457,29 @@
          "IDENTITY THEFT (C Felony)": 153,
          "RECKLESS DRIVING (A Misdemeanor)": 153,
          "Date": "2025-03-01"
+      },
+      {
+         "UNLAW USE WEAPON (C Felony)": 565,
+         "COUNTY HOLD (U Unknown)": 350,
+         "RECK ENDANGER (A Misdemeanor)": 328,
+         "SEX ABUSE I (B Felony)": 325,
+         "UUMV (C Felony)": 293,
+         "FELON POSS FA (C Felony)": 263,
+         "BURGLARY I (A Felony)": 257,
+         "ROBBERY II (B Felony)": 248,
+         "MENACING (A Misdemeanor)": 238,
+         "POSS STOLEN MV (C Felony)": 227,
+         "CRIM MISCH II (A Misdemeanor)": 221,
+         "ROBBERY I (A Felony)": 210,
+         "PAROLE OR PPSV VIOL (U Felony)": 196,
+         "CRIM MISCH I (C Felony)": 195,
+         "RAPE I (A Felony)": 164,
+         "HARASSMENT - B MISD (B Misdemeanor)": 156,
+         "SODOMY I (A Felony)": 154,
+         "RECKLESS DRIVING (A Misdemeanor)": 154,
+         "IDENTITY THEFT (C Felony)": 153,
+         "TRESPASS II (C Misdemeanor)": 153,
+         "Date": "2025-03-02"
       }
    ]
 }
