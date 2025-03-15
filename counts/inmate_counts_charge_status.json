@@ -6464,6 +6464,14 @@
          "Prison": 19,
          "Unknown": 10,
          "Date": "2025-03-14"
+      },
+      {
+         "Unsentenced": 7276,
+         "Released": 2338,
+         "Sentenced": 189,
+         "Prison": 19,
+         "Unknown": 10,
+         "Date": "2025-03-15"
       }
    ]
 }
