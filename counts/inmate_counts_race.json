@@ -8625,6 +8625,15 @@
          "P": 13,
          "Unknown": 1,
          "Date": "2025-05-16"
+      },
+      {
+         "White": 482,
+         "Black": 289,
+         "Hispanic": 121,
+         "Asian": 21,
+         "Native American or Alaskan": 17,
+         "P": 11,
+         "Date": "2025-05-17"
       }
    ]
 }
