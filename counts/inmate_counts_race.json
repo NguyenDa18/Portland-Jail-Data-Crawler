@@ -9041,6 +9041,15 @@
          "P": 14,
          "Native American or Alaskan": 13,
          "Date": "2025-07-01"
+      },
+      {
+         "White": 499,
+         "Black": 262,
+         "Hispanic": 116,
+         "Asian": 24,
+         "Native American or Alaskan": 16,
+         "P": 11,
+         "Date": "2025-07-02"
       }
    ]
 }
