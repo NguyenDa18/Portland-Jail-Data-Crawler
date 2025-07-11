@@ -9122,6 +9122,16 @@
          "Native American or Alaskan": 14,
          "P": 10,
          "Date": "2025-07-10"
+      },
+      {
+         "White": 489,
+         "Black": 283,
+         "Hispanic": 117,
+         "Asian": 24,
+         "Native American or Alaskan": 15,
+         "P": 10,
+         "Unknown": 1,
+         "Date": "2025-07-11"
       }
    ]
 }
