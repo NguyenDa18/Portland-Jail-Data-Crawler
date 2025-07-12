@@ -9132,6 +9132,15 @@
          "P": 10,
          "Unknown": 1,
          "Date": "2025-07-11"
+      },
+      {
+         "White": 478,
+         "Black": 286,
+         "Hispanic": 115,
+         "Asian": 22,
+         "Native American or Alaskan": 13,
+         "P": 9,
+         "Date": "2025-07-12"
       }
    ]
 }
