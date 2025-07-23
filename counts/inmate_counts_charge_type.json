@@ -22746,6 +22746,29 @@
          "ASSAULT II (B Felony)": 127,
          "THEFT III (C Misdemeanor)": 126,
          "Date": "2025-07-22"
+      },
+      {
+         "UNLAW USE WEAPON (C Felony)": 611,
+         "SEX ABUSE I (B Felony)": 339,
+         "RECK ENDANGER (A Misdemeanor)": 330,
+         "COUNTY HOLD (U Unknown)": 283,
+         "FELON POSS FA (C Felony)": 262,
+         "CRIM MISCH I (C Felony)": 239,
+         "MENACING (A Misdemeanor)": 234,
+         "CRIM MISCH II (A Misdemeanor)": 210,
+         "UUMV (C Felony)": 208,
+         "BURGLARY I (A Felony)": 198,
+         "PAROLE OR PPSV VIOL (U Felony)": 190,
+         "ROBBERY II (B Felony)": 181,
+         "IDENTITY THEFT (C Felony)": 172,
+         "ROBBERY I (A Felony)": 171,
+         "POSS STOLEN MV (C Felony)": 160,
+         "TRESPASS II (C Misdemeanor)": 159,
+         "ASSAULT IV (A Misdemeanor)": 144,
+         "ASSAULT II (B Felony)": 132,
+         "THEFT III (C Misdemeanor)": 127,
+         "HARASSMENT - B MISD (B Misdemeanor)": 125,
+         "Date": "2025-07-23"
       }
    ]
 }
