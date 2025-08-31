@@ -9573,6 +9573,16 @@
          "Native American or Alaskan": 18,
          "P": 7,
          "Date": "2025-08-30"
+      },
+      {
+         "White": 482,
+         "Black": 300,
+         "Hispanic": 125,
+         "Asian": 25,
+         "Native American or Alaskan": 17,
+         "P": 7,
+         "Unknown": 1,
+         "Date": "2025-08-31"
       }
    ]
 }
