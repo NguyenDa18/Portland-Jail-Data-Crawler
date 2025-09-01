@@ -9583,6 +9583,15 @@
          "P": 7,
          "Unknown": 1,
          "Date": "2025-08-31"
+      },
+      {
+         "White": 498,
+         "Black": 310,
+         "Hispanic": 128,
+         "Asian": 26,
+         "Native American or Alaskan": 17,
+         "P": 7,
+         "Date": "2025-09-01"
       }
    ]
 }
