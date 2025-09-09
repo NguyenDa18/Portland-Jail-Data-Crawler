@@ -9656,6 +9656,16 @@
          "P": 9,
          "Unknown": 1,
          "Date": "2025-09-08"
+      },
+      {
+         "White": 502,
+         "Black": 312,
+         "Hispanic": 125,
+         "Asian": 28,
+         "Native American or Alaskan": 20,
+         "P": 9,
+         "Unknown": 1,
+         "Date": "2025-09-09"
       }
    ]
 }
