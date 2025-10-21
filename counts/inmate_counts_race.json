@@ -10037,6 +10037,15 @@
          "P": 10,
          "Unknown": 1,
          "Date": "2025-10-20"
+      },
+      {
+         "White": 468,
+         "Black": 319,
+         "Hispanic": 109,
+         "Asian": 27,
+         "Native American or Alaskan": 16,
+         "P": 10,
+         "Date": "2025-10-21"
       }
    ]
 }
