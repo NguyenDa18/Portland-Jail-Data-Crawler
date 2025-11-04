@@ -25115,6 +25115,29 @@
          "POSS STOLEN MV (C Felony)": 126,
          "TRESPASS II (C Misdemeanor)": 125,
          "Date": "2025-11-03"
+      },
+      {
+         "UNLAW USE WEAPON (C Felony)": 578,
+         "SEX ABUSE I (B Felony)": 333,
+         "RECK ENDANGER (A Misdemeanor)": 291,
+         "COUNTY HOLD (U Unknown)": 287,
+         "MENACING (A Misdemeanor)": 249,
+         "CRIM MISCH I (C Felony)": 239,
+         "FELON POSS FA (C Felony)": 205,
+         "BURGLARY I (A Felony)": 203,
+         "PAROLE OR PPSV VIOL (U Felony)": 198,
+         "CRIM MISCH II (A Misdemeanor)": 197,
+         "ROBBERY I (A Felony)": 180,
+         "ROBBERY II (B Felony)": 174,
+         "ENC CHILD SEX AB 1 (B Felony)": 167,
+         "USE CHILD DSPLY SX (A Felony)": 165,
+         "ASSAULT II (B Felony)": 154,
+         "UUMV (C Felony)": 153,
+         "ASSAULT IV (A Misdemeanor)": 135,
+         "THEFT III (C Misdemeanor)": 133,
+         "HARASSMENT - B MISD (B Misdemeanor)": 131,
+         "IDENTITY THEFT (C Felony)": 121,
+         "Date": "2025-11-04"
       }
    ]
 }
