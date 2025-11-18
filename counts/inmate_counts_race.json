@@ -10290,6 +10290,15 @@
          "Asian": 23,
          "P": 12,
          "Date": "2025-11-17"
+      },
+      {
+         "White": 488,
+         "Black": 315,
+         "Hispanic": 131,
+         "Native American or Alaskan": 23,
+         "Asian": 23,
+         "P": 13,
+         "Date": "2025-11-18"
       }
    ]
 }
