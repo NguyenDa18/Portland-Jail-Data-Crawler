@@ -10345,6 +10345,15 @@
          "P": 10,
          "Unknown": 1,
          "Date": "2025-11-23"
+      },
+      {
+         "White": 479,
+         "Black": 319,
+         "Hispanic": 134,
+         "Asian": 21,
+         "Native American or Alaskan": 20,
+         "P": 11,
+         "Date": "2025-11-24"
       }
    ]
 }
