@@ -8430,6 +8430,14 @@
          "Prison": 17,
          "Unknown": 1,
          "Date": "2025-11-25"
+      },
+      {
+         "Unsentenced": 6449,
+         "Released": 2234,
+         "Sentenced": 176,
+         "Prison": 16,
+         "Unknown": 1,
+         "Date": "2025-11-26"
       }
    ]
 }
