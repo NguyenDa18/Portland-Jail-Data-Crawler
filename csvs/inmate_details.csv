@@ -948,7 +948,6 @@ SWIS ID,Name,Age,Gender,Race,Height,Weight,Hair,Eyes,Arresting Agency,Booking Da
 820577,"Gonzalezcarrillo, Julian",34,Male,Hispanic,6 ft 0 in,190 lbs,Black,Brown,nan,11/30/2025 07:49 AM,MCDC,12/01/2025,{'DUII (A Misdemeanor)': 1}
 853081,"Gliddon, William Obadiah",32,Male,White,5 ft 7 in,155 lbs,Brown,Hazel,nan,11/30/2025 07:48 AM,MCDC,12/01/2025,{'RECK ENDANGER (A Misdemeanor)': 1}
 861141,"Glenn, Dakota Ryan",28,Male,White,6 ft 4 in,165 lbs,Brown,Blue,Portland Sheriff,11/30/2025 01:46 AM,MCDC,Unknown,"{'DUII (A Misdemeanor)': 1, 'ATT ELUDE BY VEHCLE (C Felony)': 1}"
-861158,"Doe, John",55,Male,Hispanic,5 ft 5 in,170 lbs,Black,Brown,Gresham Police Department,11/30/2025 11:54 PM,MCDC,Unknown,"{'DUII (A Misdemeanor)': 1, 'FAIL DISP LIC (C Misdemeanor)': 1}"
 861148,"Dennis, Derrick Kevin",44,Male,Black,6 ft 3 in,255 lbs,Black,Brown,Portland Sheriff,11/30/2025 12:37 PM,MCDC,Unknown,"{'COERCION (C Felony)': 1, 'MENACING (A Misdemeanor)': 1, 'UNLAW USE WEAPON (C Felony)': 1, 'ASSAULT IV - DV (A Misdemeanor)': 1}"
 831564,"Crittenden, Akeeya Dovana",35,Female,Black,5 ft 5 in,190 lbs,Brown,Brown,"Portland Police, East Precinct",11/30/2025 09:47 AM,MCDC,Unknown,"{'MENACING - DV (A Misdemeanor)': 1, 'PAROLE OR PPSV VIOL (U Felony)': 1}"
 744335,"Capitaine, Angel",45,Male,White,5 ft 8 in,180 lbs,Black,Brown,"Portland Police, East Precinct",11/30/2025 07:36 PM,MCDC,Unknown,"{'MENACING - DV (A Misdemeanor)': 1, 'INTERFER PEACE OFF (A Misdemeanor)': 1, 'RESIST ARREST (A Misdemeanor)': 1}"
@@ -957,5 +956,9 @@ SWIS ID,Name,Age,Gender,Race,Height,Weight,Hair,Eyes,Arresting Agency,Booking Da
 763046,"Breen, Matthew Jefferey",47,Male,White,5 ft 9 in,150 lbs,Brown,Brown,"Portland Police, Central Precinct",11/30/2025 12:56 PM,MCDC,Unknown,"{'TRESPASS II (C Misdemeanor)': 1, 'PAROLE OR PPSV VIOL (U Felony)': 1}"
 861146,"Blankenship, Collin James",20,Male,White,5 ft 11 in,165 lbs,Brown,Green,"Portland Police, East Precinct",11/30/2025 08:21 AM,MCDC,Unknown,{'CRIM MISCH II - DV (A Misdemeanor)': 1}
 861154,"Ashby, Anamika Octavia",31,Female,White,5 ft 8 in,241 lbs,Black,Brown,"Portland Police, Central Precinct",11/30/2025 07:21 PM,MCDC,Unknown,{'VIOL A CT SPO-MIS (A Misdemeanor)': 1}
-661533,"Weese, Shannon Nicole",44,Female,White,5 ft 0 in,130 lbs,Brown,Hazel,"Portland Police, East Precinct",12/01/2025 12:59 AM,MCDC,Unknown,{'TRESPASS I (A Misdemeanor)': 1}
+805632,"Straup, Katelyn Elizabeth",26,Female,White,5 ft 5 in,125 lbs,Blonde,Blue,"Portland Police, Central Precinct",12/01/2025 02:28 AM,MCDC,Unknown,"{'FURN FALSE INFO POL (A Misdemeanor)': 1, 'POSS METH MISD (A Misdemeanor)': 1, 'THEFT II (A Misdemeanor)': 1}"
+811832,"Schumock, Timothy Julian",26,Male,White,5 ft 8 in,155 lbs,Black,Green,"Portland Police, East Precinct",12/01/2025 01:31 AM,MCDC,Unknown,{'HARASSMENT-BMIS DV (B Misdemeanor)': 1}
+854274,"Pedro, Johnathan Ryan",33,Male,White,5 ft 9 in,170 lbs,Blonde,Blue,Portland Sheriff,12/01/2025 02:41 AM,MCDC,Unknown,"{'TRESPASS II (C Misdemeanor)': 1, 'ATT ELUDE BY VEHCLE (C Felony)': 1}"
+624454,"Nolen, Daniel Wade",52,Male,White,6 ft 1 in,330 lbs,XXX,Blue,Gresham Police Department,12/01/2025 02:49 AM,MCDC,Unknown,{'COUNTY HOLD (U Unknown)': 1}
+861160,"Mohamed, Said",37,Male,Black,5 ft 10 in,250 lbs,Black,Brown,"Portland Police, Central Precinct",12/01/2025 03:44 AM,MCDC,Unknown,"{'ASSAULT II (B Felony)': 1, 'UNLAW USE WEAPON (C Felony)': 1}"
 145710,"Howlett, Charles Dwayne",65,Male,White,6 ft 1 in,184 lbs,Brown,Brown,"Portland Police, East Precinct",12/01/2025 12:31 AM,MCDC,Unknown,"{'THEFT II (A Misdemeanor)': 1, 'TRESPASS I (A Misdemeanor)': 1, 'MENACING - DV (A Misdemeanor)': 1, 'HARASSMENT-BMIS DV (B Misdemeanor)': 1}"
