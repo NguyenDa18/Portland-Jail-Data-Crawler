@@ -8758,6 +8758,14 @@
          "Prison": 16,
          "Unknown": 6,
          "Date": "2026-01-05"
+      },
+      {
+         "Unsentenced": 6553,
+         "Released": 2326,
+         "Sentenced": 199,
+         "Prison": 16,
+         "Unknown": 6,
+         "Date": "2026-01-06"
       }
    ]
 }
