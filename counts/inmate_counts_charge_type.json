@@ -27001,6 +27001,29 @@
          "HARASSMENT - B MISD (B Misdemeanor)": 141,
          "IDENTITY THEFT (C Felony)": 139,
          "Date": "2026-01-25"
+      },
+      {
+         "UNLAW USE WEAPON (C Felony)": 595,
+         "COUNTY HOLD (U Unknown)": 337,
+         "SEX ABUSE I (B Felony)": 336,
+         "ENC CHILD SEX AB 1 (B Felony)": 271,
+         "CRIM MISCH II (A Misdemeanor)": 257,
+         "RECK ENDANGER (A Misdemeanor)": 253,
+         "USE CHILD DSPLY SX (A Felony)": 251,
+         "MENACING (A Misdemeanor)": 242,
+         "CRIM MISCH I (C Felony)": 237,
+         "ENC CHILD SEX AB 2 (C Felony)": 213,
+         "PAROLE OR PPSV VIOL (U Felony)": 207,
+         "ROBBERY II (B Felony)": 200,
+         "FELON POSS FA (C Felony)": 193,
+         "ROBBERY I (A Felony)": 192,
+         "BURGLARY I (A Felony)": 187,
+         "UUMV (C Felony)": 166,
+         "TRESPASS II (C Misdemeanor)": 151,
+         "ASSAULT II (B Felony)": 146,
+         "HARASSMENT - B MISD (B Misdemeanor)": 143,
+         "IDENTITY THEFT (C Felony)": 140,
+         "Date": "2026-01-26"
       }
    ]
 }
