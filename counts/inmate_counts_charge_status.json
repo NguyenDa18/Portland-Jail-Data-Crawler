@@ -9033,6 +9033,14 @@
          "Prison": 14,
          "Unknown": 1,
          "Date": "2026-02-12"
+      },
+      {
+         "Unsentenced": 6235,
+         "Released": 2871,
+         "Sentenced": 223,
+         "Prison": 12,
+         "Unknown": 1,
+         "Date": "2026-02-13"
       }
    ]
 }
