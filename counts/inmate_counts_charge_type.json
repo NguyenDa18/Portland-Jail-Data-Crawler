@@ -27415,6 +27415,29 @@
          "TRESPASS I (A Misdemeanor)": 150,
          "TRESPASS II (C Misdemeanor)": 138,
          "Date": "2026-02-13"
+      },
+      {
+         "UNLAW USE WEAPON (C Felony)": 590,
+         "COUNTY HOLD (U Unknown)": 298,
+         "RECK ENDANGER (A Misdemeanor)": 277,
+         "ENC CHILD SEX AB 1 (B Felony)": 275,
+         "SEX ABUSE I (B Felony)": 272,
+         "USE CHILD DSPLY SX (A Felony)": 251,
+         "CRIM MISCH II (A Misdemeanor)": 223,
+         "MENACING (A Misdemeanor)": 219,
+         "ENC CHILD SEX AB 2 (C Felony)": 217,
+         "CRIM MISCH I (C Felony)": 215,
+         "PAROLE OR PPSV VIOL (U Felony)": 196,
+         "ROBBERY II (B Felony)": 189,
+         "FELON POSS FA (C Felony)": 187,
+         "BURGLARY I (A Felony)": 186,
+         "ROBBERY I (A Felony)": 185,
+         "UUMV (C Felony)": 184,
+         "ASSAULT II (B Felony)": 154,
+         "TRESPASS I (A Misdemeanor)": 148,
+         "IDENTITY THEFT (C Felony)": 144,
+         "TRESPASS II (C Misdemeanor)": 144,
+         "Date": "2026-02-14"
       }
    ]
 }
