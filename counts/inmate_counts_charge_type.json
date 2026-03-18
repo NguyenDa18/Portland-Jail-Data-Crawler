@@ -28105,6 +28105,29 @@
          "CRIM MISCH I (C Felony)": 166,
          "BURGLARY II (C Felony)": 159,
          "Date": "2026-03-16"
+      },
+      {
+         "UNLAW USE WEAPON (C Felony)": 548,
+         "COUNTY HOLD (U Unknown)": 348,
+         "SEX ABUSE I (B Felony)": 327,
+         "ENC CHILD SEX AB 1 (B Felony)": 284,
+         "RECK ENDANGER (A Misdemeanor)": 266,
+         "USE CHILD DSPLY SX (A Felony)": 251,
+         "CRIM MISCH II (A Misdemeanor)": 243,
+         "MENACING (A Misdemeanor)": 222,
+         "FELON POSS FA (C Felony)": 218,
+         "IDENTITY THEFT (C Felony)": 213,
+         "UUMV (C Felony)": 209,
+         "PAROLE OR PPSV VIOL (U Felony)": 207,
+         "ENC CHILD SEX AB 2 (C Felony)": 207,
+         "THEFT I (C Felony)": 189,
+         "BURGLARY I (A Felony)": 187,
+         "ROBBERY II (B Felony)": 187,
+         "ROBBERY I (A Felony)": 186,
+         "TRESPASS II (C Misdemeanor)": 177,
+         "HARASSMENT - B MISD (B Misdemeanor)": 166,
+         "CRIM MISCH I (C Felony)": 163,
+         "Date": "2026-03-18"
       }
    ]
 }
