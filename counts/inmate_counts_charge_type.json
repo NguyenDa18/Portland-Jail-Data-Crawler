@@ -28358,6 +28358,29 @@
          "ROBBERY II (B Felony)": 165,
          "THEFT III (C Misdemeanor)": 154,
          "Date": "2026-03-30"
+      },
+      {
+         "UNLAW USE WEAPON (C Felony)": 557,
+         "COUNTY HOLD (U Unknown)": 375,
+         "SEX ABUSE I (B Felony)": 336,
+         "RECK ENDANGER (A Misdemeanor)": 290,
+         "ENC CHILD SEX AB 1 (B Felony)": 284,
+         "USE CHILD DSPLY SX (A Felony)": 252,
+         "CRIM MISCH II (A Misdemeanor)": 222,
+         "IDENTITY THEFT (C Felony)": 219,
+         "PAROLE OR PPSV VIOL (U Felony)": 213,
+         "FELON POSS FA (C Felony)": 211,
+         "ENC CHILD SEX AB 2 (C Felony)": 208,
+         "UUMV (C Felony)": 207,
+         "MENACING (A Misdemeanor)": 202,
+         "ROBBERY I (A Felony)": 183,
+         "ROBBERY II (B Felony)": 165,
+         "CRIM MISCH I (C Felony)": 165,
+         "HARASSMENT - B MISD (B Misdemeanor)": 165,
+         "THEFT I (C Felony)": 165,
+         "THEFT III (C Misdemeanor)": 157,
+         "ASSAULT II (B Felony)": 153,
+         "Date": "2026-03-31"
       }
    ]
 }
