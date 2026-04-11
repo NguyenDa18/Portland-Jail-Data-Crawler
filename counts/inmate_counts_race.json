@@ -11551,6 +11551,16 @@
          "P": 17,
          "Unknown": 1,
          "Date": "2026-04-10"
+      },
+      {
+         "White": 497,
+         "Black": 312,
+         "Hispanic": 125,
+         "Asian": 25,
+         "Native American or Alaskan": 21,
+         "P": 16,
+         "Unknown": 1,
+         "Date": "2026-04-11"
       }
    ]
 }
