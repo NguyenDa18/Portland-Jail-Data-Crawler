@@ -29416,6 +29416,29 @@
          "BURGLARY II (C Felony)": 139,
          "THEFT III (C Misdemeanor)": 139,
          "Date": "2026-06-01"
+      },
+      {
+         "UNLAW USE WEAPON (C Felony)": 523,
+         "SEX ABUSE I (B Felony)": 393,
+         "RECK ENDANGER (A Misdemeanor)": 344,
+         "COUNTY HOLD (U Unknown)": 329,
+         "ENC CHILD SEX AB 1 (B Felony)": 298,
+         "USE CHILD DSPLY SX (A Felony)": 262,
+         "IDENTITY THEFT (C Felony)": 237,
+         "FELON POSS FA (C Felony)": 223,
+         "ENC CHILD SEX AB 2 (C Felony)": 220,
+         "UUMV (C Felony)": 208,
+         "CRIM MISCH II (A Misdemeanor)": 201,
+         "PAROLE OR PPSV VIOL (U Felony)": 196,
+         "THEFT I (C Felony)": 183,
+         "ROBBERY I (A Felony)": 178,
+         "MENACING (A Misdemeanor)": 171,
+         "ASSAULT II (B Felony)": 166,
+         "ROBBERY II (B Felony)": 160,
+         "HARASSMENT - B MISD (B Misdemeanor)": 156,
+         "BURGLARY I (A Felony)": 144,
+         "BURGLARY II (C Felony)": 136,
+         "Date": "2026-06-03"
       }
    ]
 }
