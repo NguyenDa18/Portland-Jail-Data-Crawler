@@ -12091,6 +12091,16 @@
          "P": 13,
          "Unknown": 1,
          "Date": "2026-06-23"
+      },
+      {
+         "White": 464,
+         "Black": 302,
+         "Hispanic": 129,
+         "Asian": 22,
+         "Native American or Alaskan": 17,
+         "P": 11,
+         "Unknown": 1,
+         "Date": "2026-06-24"
       }
    ]
 }
