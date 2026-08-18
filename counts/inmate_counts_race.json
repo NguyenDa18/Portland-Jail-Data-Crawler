@@ -12558,6 +12558,15 @@
          "Asian": 18,
          "P": 14,
          "Date": "2026-08-17"
+      },
+      {
+         "White": 512,
+         "Black": 329,
+         "Hispanic": 130,
+         "Native American or Alaskan": 19,
+         "Asian": 18,
+         "P": 13,
+         "Date": "2026-08-18"
       }
    ]
 }
