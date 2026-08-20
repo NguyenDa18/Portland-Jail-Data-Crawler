@@ -12576,6 +12576,15 @@
          "Asian": 20,
          "P": 13,
          "Date": "2026-08-19"
+      },
+      {
+         "White": 497,
+         "Black": 309,
+         "Hispanic": 128,
+         "Native American or Alaskan": 22,
+         "Asian": 19,
+         "P": 15,
+         "Date": "2026-08-20"
       }
    ]
 }
