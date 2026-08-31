@@ -31210,6 +31210,29 @@
          "CRIM MISCH I (C Felony)": 165,
          "UUMV (C Felony)": 165,
          "Date": "2026-08-30"
+      },
+      {
+         "UNLAW USE WEAPON (C Felony)": 546,
+         "RECK ENDANGER (A Misdemeanor)": 459,
+         "SEX ABUSE I (B Felony)": 431,
+         "COUNTY HOLD (U Unknown)": 420,
+         "ENC CHILD SEX AB 1 (B Felony)": 336,
+         "USE CHILD DSPLY SX (A Felony)": 247,
+         "PAROLE OR PPSV VIOL (U Felony)": 231,
+         "FELON POSS FA (C Felony)": 231,
+         "ENC CHILD SEX AB 2 (C Felony)": 206,
+         "THEFT I (C Felony)": 206,
+         "TRESPASS II (C Misdemeanor)": 205,
+         "CRIM MISCH II (A Misdemeanor)": 202,
+         "ROBBERY I (A Felony)": 194,
+         "ROBBERY II (B Felony)": 193,
+         "MENACING (A Misdemeanor)": 188,
+         "IDENTITY THEFT (C Felony)": 186,
+         "BURGLARY I (A Felony)": 176,
+         "THEFT II (A Misdemeanor)": 172,
+         "CRIM MISCH I (C Felony)": 165,
+         "UUMV (C Felony)": 164,
+         "Date": "2026-08-31"
       }
    ]
 }

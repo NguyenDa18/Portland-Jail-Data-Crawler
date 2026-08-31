@@ -12678,6 +12678,15 @@
          "Native American or Alaskan": 20,
          "P": 16,
          "Date": "2026-08-30"
+      },
+      {
+         "White": 500,
+         "Black": 334,
+         "Hispanic": 130,
+         "Asian": 25,
+         "Native American or Alaskan": 21,
+         "P": 16,
+         "Date": "2026-08-31"
       }
    ]
 }
