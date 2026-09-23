@@ -31739,6 +31739,29 @@
          "UUMV (C Felony)": 170,
          "IDENTITY THEFT (C Felony)": 169,
          "Date": "2026-09-22"
+      },
+      {
+         "UNLAW USE WEAPON (C Felony)": 529,
+         "SEX ABUSE I (B Felony)": 423,
+         "RECK ENDANGER (A Misdemeanor)": 400,
+         "COUNTY HOLD (U Unknown)": 371,
+         "ENC CHILD SEX AB 1 (B Felony)": 336,
+         "USE CHILD DSPLY SX (A Felony)": 245,
+         "FELON POSS FA (C Felony)": 226,
+         "PAROLE OR PPSV VIOL (U Felony)": 209,
+         "ENC CHILD SEX AB 2 (C Felony)": 206,
+         "CRIM MISCH II (A Misdemeanor)": 201,
+         "ROBBERY I (A Felony)": 189,
+         "ROBBERY II (B Felony)": 188,
+         "THEFT I (C Felony)": 184,
+         "CRIM MISCH I (C Felony)": 182,
+         "BURGLARY I (A Felony)": 177,
+         "MENACING (A Misdemeanor)": 177,
+         "THEFT II (A Misdemeanor)": 175,
+         "TRESPASS II (C Misdemeanor)": 171,
+         "IDENTITY THEFT (C Felony)": 169,
+         "UUMV (C Felony)": 167,
+         "Date": "2026-09-23"
       }
    ]
 }
