@@ -13047,6 +13047,15 @@
          "P": 18,
          "Native American or Alaskan": 18,
          "Date": "2026-10-09"
+      },
+      {
+         "White": 460,
+         "Black": 300,
+         "Hispanic": 126,
+         "Asian": 25,
+         "Native American or Alaskan": 17,
+         "P": 17,
+         "Date": "2026-10-10"
       }
    ]
 }
