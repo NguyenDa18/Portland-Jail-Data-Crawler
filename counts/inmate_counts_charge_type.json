@@ -32590,6 +32590,29 @@
          "ASSAULT II (B Felony)": 160,
          "IDENTITY THEFT (C Felony)": 158,
          "Date": "2026-10-30"
+      },
+      {
+         "UNLAW USE WEAPON (C Felony)": 532,
+         "SEX ABUSE I (B Felony)": 438,
+         "ENC CHILD SEX AB 1 (B Felony)": 344,
+         "COUNTY HOLD (U Unknown)": 330,
+         "USE CHILD DSPLY SX (A Felony)": 276,
+         "RECK ENDANGER (A Misdemeanor)": 271,
+         "ENC CHILD SEX AB 2 (C Felony)": 242,
+         "FELON POSS FA (C Felony)": 226,
+         "THEFT I (C Felony)": 208,
+         "PAROLE OR PPSV VIOL (U Felony)": 201,
+         "CRIM MISCH II (A Misdemeanor)": 194,
+         "ROBBERY I (A Felony)": 185,
+         "CRIM MISCH I (C Felony)": 183,
+         "ROBBERY II (B Felony)": 178,
+         "MENACING (A Misdemeanor)": 178,
+         "BURGLARY I (A Felony)": 172,
+         "TRESPASS II (C Misdemeanor)": 167,
+         "THEFT II (A Misdemeanor)": 161,
+         "ASSAULT II (B Felony)": 161,
+         "IDENTITY THEFT (C Felony)": 159,
+         "Date": "2026-10-31"
       }
    ]
 }
